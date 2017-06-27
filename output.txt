@@ -1,0 +1,1319 @@
+[['Palazzo_Ducale']], 704
+[["Torre_dell'orologio"]], 365
+[['Fontego_dei_Tedeschi']], 328
+[['Museo_Correr']], 291
+[['Gaggio_Carta_Di_Girotto_Sas']], 257
+[['Palace_Gardens']], 257
+[["Gallerie_dell'Accademia"]], 251
+[['Palazzo_Ducale'], ['Palazzo_Ducale']], 232
+[["Torre_dell'orologio"], ['Palazzo_Ducale']], 176
+[['Palazzo_Foscari_Contarini']], 166
+[['Palazzo_Ducale'], ["Torre_dell'orologio"]], 165
+[['Basilica_di_Santa_Maria_della_Salute']], 161
+[['Fontego_dei_Tedeschi'], ['Palazzo_Ducale']], 144
+[['Museo_Correr'], ['Palazzo_Ducale']], 143
+[['Palazzo_Ducale'], ['Palace_Gardens']], 141
+[['Bauer_Palazzo']], 139
+[['Palazzo_Ducale'], ['Museo_Correr']], 131
+[['Palazzo_Ducale'], ['Fontego_dei_Tedeschi']], 125
+[['Isola_di_San_Michelle']], 124
+[['Palace_Gardens'], ['Palazzo_Ducale']], 122
+[['Ponte_dei_Sospiri']], 121
+[['Campo_San_Zaccaria']], 115
+[["Gallerie_dell'Accademia"], ['Palazzo_Ducale']], 111
+[['Collezione_Peggy_Guggenheim']], 110
+[['Palazzo_Ducale'], ['Palazzo_Ducale'], ['Palazzo_Ducale']], 110
+[['Palazzo_Ducale'], ["Gallerie_dell'Accademia"]], 107
+[['Palazzo_Ducale'], ["Torre_dell'orologio"], ['Palazzo_Ducale']], 106
+[['Palazzo_Santa_Maria_del_Giglio']], 104
+[['Monumento_Nazionale_a_Vittorio_Emanuele_II']], 104
+[['Chiesa_di_San_Giorgio_Maggiore']], 102
+[["Ponte_dell'Accademia"]], 102
+[["Opera_Santa_Maria_Della_Carita'"]], 98
+[['Fontego_dei_Tedeschi'], ["Torre_dell'orologio"]], 98
+[["Torre_dell'orologio"], ["Torre_dell'orologio"]], 94
+[['Chiesa_di_San_Salvador']], 92
+[['Galleria_Franchetti']], 90
+[['Palazzo_Ducale'], ['Basilica_di_Santa_Maria_della_Salute']], 89
+[['Chiesa_Santa_Maria_della_Fava']], 87
+[["Torre_dell'orologio"], ['Museo_Correr']], 87
+[['Punta_della_Dogana_di_Mare']], 85
+[['Gaggio_Carta_Di_Girotto_Sas'], ['Palazzo_Ducale']], 85
+[["Torre_dell'orologio"], ['Palazzo_Ducale'], ['Palazzo_Ducale']], 84
+[['Ponte_della_Costituzione']], 82
+[['Palazzo_Ducale'], ['Gaggio_Carta_Di_Girotto_Sas']], 81
+[['Palazzo_Ducale'], ['Museo_Correr'], ['Palazzo_Ducale']], 81
+[['Palazzo_Ducale'], ['Palace_Gardens'], ['Palazzo_Ducale']], 80
+[['Palazzo_Ducale'], ['Palazzo_Ducale'], ["Torre_dell'orologio"]], 80
+[['Chiesa_di_San_Silvestro_I_Papa']], 79
+[["Torre_dell'orologio"], ['Palace_Gardens']], 79
+[['Museo_Correr'], ['Palace_Gardens']], 77
+[['Museo_Correr'], ["Torre_dell'orologio"]], 76
+[["Ca'_Foscari_Zattere_-_Cultural_flow_zone"]], 74
+[['Palazzo_Ducale'], ['Ponte_dei_Sospiri']], 73
+[['Basilica_di_Santa_Maria_della_Salute'], ['Palazzo_Ducale']], 72
+[['Museo_Correr'], ['Museo_Correr']], 71
+[['Campo_San_Geremia']], 70
+[['Fontego_dei_Tedeschi'], ['Gaggio_Carta_Di_Girotto_Sas']], 70
+[["Torre_dell'orologio"], ['Fontego_dei_Tedeschi']], 70
+[['Ponte_dei_Sospiri'], ['Palazzo_Ducale']], 68
+[['Palace_Gardens'], ['Museo_Correr']], 68
+[['Palazzo_Foscari_Contarini'], ['Palazzo_Ducale']], 67
+[['Palace_Gardens'], ["Torre_dell'orologio"]], 67
+[["Torre_dell'orologio"], ['Gaggio_Carta_Di_Girotto_Sas']], 67
+[['Palazzo_Ducale'], ['Campo_San_Zaccaria']], 67
+[['Palazzo_Ducale'], ['Fontego_dei_Tedeschi'], ['Palazzo_Ducale']], 66
+[['Palace_Gardens'], ['Palace_Gardens']], 65
+[['Palazzo_Ducale'], ['Bauer_Palazzo']], 65
+[['Chiesa_di_San_Barnaba']], 64
+[['Museo_Correr'], ['Fontego_dei_Tedeschi']], 64
+[["Torre_dell'orologio"], ['Palazzo_Ducale'], ["Torre_dell'orologio"]], 64
+[['Gaggio_Carta_Di_Girotto_Sas'], ["Torre_dell'orologio"]], 63
+[['Museo_Correr'], ['Palazzo_Ducale'], ['Palazzo_Ducale']], 63
+[['Fontego_dei_Tedeschi'], ['Museo_Correr']], 63
+[['Palazzo_Ducale'], ['Palazzo_Ducale'], ['Palace_Gardens']], 63
+[['Chiesa_di_San_Mois?']], 62
+[['Bauer_Palazzo'], ['Palazzo_Ducale']], 62
+[["Gallerie_dell'Accademia"], ['Palace_Gardens']], 62
+[['Chiesa_di_Santa_Maria_Gloriosa_dei_Frari']], 61
+[["Gallerie_dell'Accademia"], ["Torre_dell'orologio"]], 61
+[['Palace_Gardens'], ['Palazzo_Ducale'], ['Palazzo_Ducale']], 61
+[['Fontego_dei_Tedeschi'], ["Gallerie_dell'Accademia"]], 61
+[['Fontego_dei_Tedeschi'], ['Fontego_dei_Tedeschi']], 61
+[['Fontego_dei_Tedeschi'], ["Torre_dell'orologio"], ['Palazzo_Ducale']], 61
+[['Fontego_dei_Tedeschi'], ['Palazzo_Ducale'], ['Palazzo_Ducale']], 61
+[['Palazzo_Ducale'], ['Palazzo_Ducale'], ['Fontego_dei_Tedeschi']], 61
+[['Galleria_Dorothea_Van_Der_Koelen']], 59
+[['Chiesa_dei_Miracoli']], 59
+[['Fontego_dei_Tedeschi'], ['Palace_Gardens']], 59
+[['Palazzo_Ducale'], ["Torre_dell'orologio"], ["Torre_dell'orologio"]], 59
+[['Campo_San_Provolo']], 58
+[['Campanile_e_Chiesa_degli_Santi_Apostoli']], 58
+[['Chiesa_San_Biagio']], 57
+[['Campo_San_Zaccaria'], ['Palazzo_Ducale']], 57
+[["Torre_dell'orologio"], ['Museo_Correr'], ['Palazzo_Ducale']], 57
+[["Torre_dell'orologio"], ['Palazzo_Ducale'], ['Palace_Gardens']], 57
+[['Palazzo_Ducale'], ['Palazzo_Ducale'], ["Torre_dell'orologio"], ['Palazzo_Ducale']], 57
+[['Chiesa_San_Felice']], 56
+[['Padiglione_Germania']], 56
+[['Gaggio_Carta_Di_Girotto_Sas'], ['Fontego_dei_Tedeschi']], 56
+[['Museo_Correr'], ["Torre_dell'orologio"], ['Palazzo_Ducale']], 56
+[["Torre_dell'orologio"], ["Gallerie_dell'Accademia"]], 56
+[['Palazzo_Ducale'], ['Collezione_Peggy_Guggenheim']], 56
+[['Palazzo_Ducale'], ["Torre_dell'orologio"], ['Palazzo_Ducale'], ['Palazzo_Ducale']], 56
+[['Palazzo_Ducale'], ['Palazzo_Ducale'], ['Museo_Correr']], 56
+[["Ca'_Pesaro_Galleria_Internazionale_d'Arte_Moderna"]], 55
+[['Campo_Santo_Stefano']], 55
+[['Palazzo_Ducale'], ['Palazzo_Santa_Maria_del_Giglio']], 55
+[['Palazzo_Ducale'], ['Monumento_Nazionale_a_Vittorio_Emanuele_II']], 55
+[['Palazzo_Ducale'], ["Ponte_dell'Accademia"]], 55
+[['Basilica_dei_Santi_Giovanni_e_Paolo']], 54
+[['Monumento_Nazionale_a_Vittorio_Emanuele_II'], ['Palazzo_Ducale']], 54
+[['Palace_Gardens'], ['Palazzo_Ducale'], ['Palace_Gardens']], 54
+[["Torre_dell'orologio"], ["Torre_dell'orologio"], ['Palazzo_Ducale']], 54
+[['Palazzo_Ducale'], ['Palazzo_Foscari_Contarini']], 54
+[['Campo_di_Ghetto_Nuovo']], 53
+[['Museo_del_Settecento_Veneziano']], 53
+[['Arsenale_di_Venezia']], 53
+[['Palazzo_Ducale'], ['Palazzo_Ducale'], ['Palazzo_Ducale'], ['Palazzo_Ducale']], 53
+[['Palazzo_Contarini_del_Bovolo']], 52
+[['Campo_San_Polo']], 52
+[['Galleria_Franchetti'], ['Palazzo_Ducale']], 52
+[["Gallerie_dell'Accademia"], ['Palazzo_Ducale'], ['Palazzo_Ducale']], 52
+[['Fontego_dei_Tedeschi'], ['Palazzo_Ducale'], ["Torre_dell'orologio"]], 52
+[['Palace_Gardens'], ['Fontego_dei_Tedeschi']], 51
+[['Gaggio_Carta_Di_Girotto_Sas'], ['Gaggio_Carta_Di_Girotto_Sas']], 50
+[['Palace_Gardens'], ["Gallerie_dell'Accademia"]], 50
+[['Palace_Gardens'], ['Palazzo_Ducale'], ["Torre_dell'orologio"]], 50
+[['Palazzo_Ducale'], ["Gallerie_dell'Accademia"], ['Palazzo_Ducale']], 50
+[['Palazzo_Ducale'], ["Torre_dell'orologio"], ['Museo_Correr']], 50
+[['Palazzo_Ducale'], ["Torre_dell'orologio"], ['Palace_Gardens']], 50
+[['Palazzo_Ducale'], ['Palazzo_Ducale'], ["Gallerie_dell'Accademia"]], 50
+[['Santa_Maria_del_Rosario']], 49
+[['Museo_Correr'], ["Gallerie_dell'Accademia"]], 49
+[['Museo_Correr'], ['Palace_Gardens'], ['Palazzo_Ducale']], 49
+[['Museo_Correr'], ['Palazzo_Ducale'], ["Torre_dell'orologio"]], 49
+[['Palazzo_Ducale'], ['Chiesa_di_San_Giorgio_Maggiore']], 49
+[['Palazzo_Ducale'], ["Torre_dell'orologio"], ['Fontego_dei_Tedeschi']], 49
+[['Palazzo_Ducale'], ['Ponte_dei_Sospiri'], ['Palazzo_Ducale']], 48
+[['Palazzo_Ducale'], ['Museo_Correr'], ['Palace_Gardens']], 48
+[['Palazzo_Ducale'], ["Torre_dell'orologio"], ['Palazzo_Ducale'], ["Torre_dell'orologio"]], 48
+[['Palazzo_Ducale'], ['Palazzo_Ducale'], ['Basilica_di_Santa_Maria_della_Salute']], 48
+[['Campo_della_Maddalena']], 47
+[['Campo_San_Tom?']], 47
+[['Chiesa_di_San_Giorgio_Maggiore'], ['Palazzo_Ducale']], 47
+[["Gallerie_dell'Accademia"], ['Museo_Correr']], 47
+[["Gallerie_dell'Accademia"], ["Gallerie_dell'Accademia"]], 47
+[['Museo_Correr'], ['Museo_Correr'], ['Palazzo_Ducale']], 47
+[['Fontego_dei_Tedeschi'], ['Basilica_di_Santa_Maria_della_Salute']], 47
+[['Palazzo_Ducale'], ['Museo_Correr'], ["Torre_dell'orologio"]], 47
+[['Chiesa_di_San_Marcuola']], 46
+[['Palazzo_Santa_Maria_del_Giglio'], ['Palazzo_Ducale']], 46
+[["Gallerie_dell'Accademia"], ['Collezione_Peggy_Guggenheim']], 46
+[['Palazzo_Ducale'], ["Opera_Santa_Maria_Della_Carita'"]], 46
+[['Palazzo_Ducale'], ['Palazzo_Ducale'], ['Palazzo_Ducale'], ["Torre_dell'orologio"]], 46
+[['Collezione_Peggy_Guggenheim'], ['Palazzo_Ducale']], 45
+[['Basilica_di_Santa_Maria_della_Salute'], ["Gallerie_dell'Accademia"]], 45
+[['Palazzo_Foscari_Contarini'], ["Torre_dell'orologio"]], 45
+[["Gallerie_dell'Accademia"], ['Basilica_di_Santa_Maria_della_Salute']], 45
+[['Palace_Gardens'], ['Basilica_di_Santa_Maria_della_Salute']], 45
+[['Museo_Correr'], ['Palazzo_Ducale'], ['Museo_Correr']], 45
+[['Museo_Correr'], ['Palazzo_Ducale'], ['Palace_Gardens']], 45
+[['Palazzo_Ducale'], ['Basilica_di_Santa_Maria_della_Salute'], ['Palazzo_Ducale']], 45
+[['Palazzo_Ducale'], ['Palace_Gardens'], ["Torre_dell'orologio"]], 45
+[['Palazzo_Ducale'], ['Palace_Gardens'], ['Museo_Correr']], 45
+[["Ponte_dell'Accademia"], ['Palazzo_Ducale']], 44
+[['Ponte_dei_Sospiri'], ['Palazzo_Ducale'], ['Palazzo_Ducale']], 44
+[["Gallerie_dell'Accademia"], ['Fontego_dei_Tedeschi']], 44
+[["Torre_dell'orologio"], ['Campo_San_Zaccaria']], 44
+[['Palazzo_Ducale'], ['Galleria_Franchetti']], 44
+[['Palazzo_Ducale'], ['Museo_Correr'], ['Museo_Correr']], 44
+[["Ca'_Foscari"]], 43
+[['Gaggio_Carta_Di_Girotto_Sas'], ['Museo_Correr']], 43
+[['Palace_Gardens'], ["Torre_dell'orologio"], ['Palazzo_Ducale']], 43
+[["Torre_dell'orologio"], ['Basilica_di_Santa_Maria_della_Salute']], 43
+[["Torre_dell'orologio"], ['Palace_Gardens'], ['Palazzo_Ducale']], 43
+[["Torre_dell'orologio"], ['Palazzo_Ducale'], ['Fontego_dei_Tedeschi']], 43
+[["Torre_dell'orologio"], ['Palazzo_Ducale'], ['Palazzo_Ducale'], ['Palazzo_Ducale']], 43
+[['Palazzo_Ducale'], ['Palace_Gardens'], ['Palace_Gardens']], 43
+[['Ponte_di_Rialto']], 42
+[['Museo_Correr'], ['Palazzo_Ducale'], ['Fontego_dei_Tedeschi']], 42
+[['Fontego_dei_Tedeschi'], ['Museo_Correr'], ['Palazzo_Ducale']], 42
+[["Torre_dell'orologio"], ['Ponte_dei_Sospiri']], 42
+[['Palazzo_Ducale'], ['Chiesa_di_San_Salvador']], 42
+[['Palazzo_Ducale'], ['Museo_Correr'], ['Fontego_dei_Tedeschi']], 42
+[['Palazzo_Ducale'], ['Museo_Correr'], ['Palazzo_Ducale'], ['Palazzo_Ducale']], 42
+[['Chiesa_di_San_Salvador'], ['Palazzo_Ducale']], 41
+[['Palace_Gardens'], ['Museo_Correr'], ['Palazzo_Ducale']], 41
+[['Museo_Correr'], ['Gaggio_Carta_Di_Girotto_Sas']], 41
+[['Museo_Correr'], ['Basilica_di_Santa_Maria_della_Salute']], 41
+[["Torre_dell'orologio"], ['Palazzo_Foscari_Contarini']], 41
+[["Torre_dell'orologio"], ["Ponte_dell'Accademia"]], 41
+[["Torre_dell'orologio"], ['Palazzo_Ducale'], ['Museo_Correr']], 41
+[['Palazzo_Ducale'], ['Chiesa_Santa_Maria_della_Fava']], 41
+[['Palazzo_Ducale'], ['Palazzo_Ducale'], ['Museo_Correr'], ['Palazzo_Ducale']], 41
+[["Opera_Santa_Maria_Della_Carita'"], ['Palazzo_Ducale']], 40
+[['Basilica_di_Santa_Maria_della_Salute'], ['Palace_Gardens']], 40
+[['Basilica_di_Santa_Maria_della_Salute'], ['Basilica_di_Santa_Maria_della_Salute']], 40
+[["Gallerie_dell'Accademia"], ["Ponte_dell'Accademia"]], 40
+[["Gallerie_dell'Accademia"], ['Museo_Correr'], ['Palazzo_Ducale']], 40
+[['Fontego_dei_Tedeschi'], ['Palazzo_Ducale'], ['Palace_Gardens']], 40
+[["Torre_dell'orologio"], ["Torre_dell'orologio"], ["Torre_dell'orologio"]], 40
+[['Palazzo_Ducale'], ['Palazzo_Ducale'], ['Gaggio_Carta_Di_Girotto_Sas']], 40
+[['Ponte_dei_Sospiri'], ["Torre_dell'orologio"]], 39
+[['Museo_Correr'], ['Campo_San_Zaccaria']], 39
+[['Fontego_dei_Tedeschi'], ['Palazzo_Ducale'], ['Museo_Correr']], 39
+[["Torre_dell'orologio"], ['Fontego_dei_Tedeschi'], ['Palazzo_Ducale']], 39
+[["Torre_dell'orologio"], ['Museo_Correr'], ["Torre_dell'orologio"]], 39
+[['Palazzo_Ducale'], ['Palace_Gardens'], ['Palazzo_Ducale'], ['Palazzo_Ducale']], 39
+[['Palazzo_Ducale'], ["Torre_dell'orologio"], ["Torre_dell'orologio"], ['Palazzo_Ducale']], 39
+[['Palazzo_Ducale'], ['Palazzo_Ducale'], ['Ponte_dei_Sospiri']], 39
+[['Punta_della_Dogana_di_Mare'], ['Palazzo_Ducale']], 38
+[['Gaggio_Carta_Di_Girotto_Sas'], ['Palace_Gardens']], 38
+[['Gaggio_Carta_Di_Girotto_Sas'], ['Palazzo_Ducale'], ['Palazzo_Ducale']], 38
+[['Fontego_dei_Tedeschi'], ['Campo_San_Zaccaria']], 38
+[["Torre_dell'orologio"], ['Palazzo_Ducale'], ['Gaggio_Carta_Di_Girotto_Sas']], 38
+[["Torre_dell'orologio"], ['Palazzo_Ducale'], ["Torre_dell'orologio"], ['Palazzo_Ducale']], 38
+[['Palazzo_Ducale'], ['Campo_San_Zaccaria'], ['Palazzo_Ducale']], 38
+[['Palazzo_Ducale'], ["Torre_dell'orologio"], ['Gaggio_Carta_Di_Girotto_Sas']], 38
+[['Palazzo_Ducale'], ['Palazzo_Ducale'], ['Fontego_dei_Tedeschi'], ['Palazzo_Ducale']], 38
+[['Chiesa_di_San_Nicola_da_Tolentino']], 37
+[['Campo_San_Benedetto']], 37
+[["Ponte_dell'Accademia"], ["Gallerie_dell'Accademia"]], 37
+[['Ponte_dei_Sospiri'], ['Palace_Gardens']], 37
+[['Bauer_Palazzo'], ['Palace_Gardens']], 37
+[['Basilica_di_Santa_Maria_della_Salute'], ["Torre_dell'orologio"]], 37
+[['Palazzo_Foscari_Contarini'], ['Fontego_dei_Tedeschi']], 37
+[["Gallerie_dell'Accademia"], ['Bauer_Palazzo']], 37
+[['Palace_Gardens'], ['Ponte_dei_Sospiri']], 37
+[['Palace_Gardens'], ['Palazzo_Ducale'], ['Museo_Correr']], 37
+[["Torre_dell'orologio"], ['Palazzo_Santa_Maria_del_Giglio']], 37
+[['Palazzo_Ducale'], ['Punta_della_Dogana_di_Mare']], 37
+[['Palazzo_Ducale'], ['Monumento_Nazionale_a_Vittorio_Emanuele_II'], ['Palazzo_Ducale']], 37
+[['Palazzo_Ducale'], ['Gaggio_Carta_Di_Girotto_Sas'], ['Palazzo_Ducale']], 37
+[['Palazzo_Ducale'], ['Fontego_dei_Tedeschi'], ['Gaggio_Carta_Di_Girotto_Sas']], 37
+[['Palazzo_Ducale'], ['Palace_Gardens'], ['Palazzo_Ducale'], ['Palace_Gardens']], 37
+[['Palazzo_Ducale'], ['Palazzo_Ducale'], ['Bauer_Palazzo']], 37
+[['Palazzo_Ducale'], ['Palazzo_Ducale'], ['Campo_San_Zaccaria']], 37
+[['Palazzo_Ducale'], ['Palazzo_Ducale'], ['Palazzo_Ducale'], ['Palace_Gardens']], 37
+[['Magazzini_del_Sale']], 36
+[['Auditorium_S._Margherita']], 36
+[['Chiesa_Santa_Maria_della_Fava'], ['Palazzo_Ducale']], 36
+[["Opera_Santa_Maria_Della_Carita'"], ["Torre_dell'orologio"]], 36
+[['Campo_San_Zaccaria'], ["Torre_dell'orologio"]], 36
+[['Basilica_di_Santa_Maria_della_Salute'], ['Museo_Correr']], 36
+[["Gallerie_dell'Accademia"], ['Palace_Gardens'], ['Palazzo_Ducale']], 36
+[['Palace_Gardens'], ['Bauer_Palazzo']], 36
+[['Museo_Correr'], ['Ponte_dei_Sospiri']], 36
+[['Museo_Correr'], ['Palace_Gardens'], ['Museo_Correr']], 36
+[['Fontego_dei_Tedeschi'], ['Palazzo_Foscari_Contarini']], 36
+[['Fontego_dei_Tedeschi'], ['Fontego_dei_Tedeschi'], ['Palazzo_Ducale']], 36
+[["Torre_dell'orologio"], ['Palazzo_Ducale'], ['Campo_San_Zaccaria']], 36
+[["Torre_dell'orologio"], ['Palazzo_Ducale'], ['Palazzo_Ducale'], ["Torre_dell'orologio"]], 36
+[['Palazzo_Ducale'], ['Fontego_dei_Tedeschi'], ["Torre_dell'orologio"]], 36
+[['Palazzo_Ducale'], ['Palace_Gardens'], ['Fontego_dei_Tedeschi']], 36
+[['Palazzo_Ducale'], ["Torre_dell'orologio"], ['Palazzo_Ducale'], ['Palace_Gardens']], 36
+[['Palazzo_Ducale'], ['Palazzo_Ducale'], ['Palazzo_Santa_Maria_del_Giglio']], 36
+[['Palazzo_Ducale'], ['Palazzo_Ducale'], ['Palace_Gardens'], ['Palazzo_Ducale']], 36
+[["Gallerie_dell'Accademia"], ['Palazzo_Ducale'], ["Torre_dell'orologio"]], 35
+[['Gaggio_Carta_Di_Girotto_Sas'], ["Gallerie_dell'Accademia"]], 35
+[['Palace_Gardens'], ['Gaggio_Carta_Di_Girotto_Sas']], 35
+[['Palace_Gardens'], ['Palace_Gardens'], ['Palazzo_Ducale']], 35
+[['Palace_Gardens'], ['Palazzo_Ducale'], ['Palazzo_Ducale'], ['Palazzo_Ducale']], 35
+[['Museo_Correr'], ['Palazzo_Ducale'], ['Palazzo_Ducale'], ['Palazzo_Ducale']], 35
+[['Fontego_dei_Tedeschi'], ['Bauer_Palazzo']], 35
+[['Fontego_dei_Tedeschi'], ['Chiesa_di_San_Salvador']], 35
+[['Fontego_dei_Tedeschi'], ['Palace_Gardens'], ['Palazzo_Ducale']], 35
+[['Fontego_dei_Tedeschi'], ['Palazzo_Ducale'], ["Torre_dell'orologio"], ['Palazzo_Ducale']], 35
+[["Torre_dell'orologio"], ["Opera_Santa_Maria_Della_Carita'"]], 35
+[["Torre_dell'orologio"], ['Bauer_Palazzo']], 35
+[["Torre_dell'orologio"], ['Monumento_Nazionale_a_Vittorio_Emanuele_II']], 35
+[["Torre_dell'orologio"], ['Galleria_Franchetti']], 35
+[["Torre_dell'orologio"], ['Museo_Correr'], ['Palace_Gardens']], 35
+[['Palazzo_Ducale'], ['Museo_Correr'], ["Torre_dell'orologio"], ['Palazzo_Ducale']], 35
+[['Palazzo_Ducale'], ['Palace_Gardens'], ["Gallerie_dell'Accademia"]], 35
+[['Chiesa_di_San_Mois?'], ['Palazzo_Ducale']], 34
+[['Galleria_Franchetti'], ["Torre_dell'orologio"]], 34
+[['Bauer_Palazzo'], ["Torre_dell'orologio"]], 34
+[['Bauer_Palazzo'], ["Gallerie_dell'Accademia"]], 34
+[["Gallerie_dell'Accademia"], ['Gaggio_Carta_Di_Girotto_Sas']], 34
+[["Gallerie_dell'Accademia"], ["Torre_dell'orologio"], ['Palazzo_Ducale']], 34
+[['Museo_Correr'], ["Opera_Santa_Maria_Della_Carita'"]], 34
+[['Museo_Correr'], ['Palazzo_Santa_Maria_del_Giglio']], 34
+[['Fontego_dei_Tedeschi'], ["Ponte_dell'Accademia"]], 34
+[['Fontego_dei_Tedeschi'], ['Gaggio_Carta_Di_Girotto_Sas'], ['Palazzo_Ducale']], 34
+[["Torre_dell'orologio"], ['Palazzo_Ducale'], ["Gallerie_dell'Accademia"]], 34
+[['Palazzo_Ducale'], ['Bauer_Palazzo'], ['Palazzo_Ducale']], 34
+[['Chiesa_di_San_Barnaba'], ['Palazzo_Ducale']], 33
+[['Chiesa_di_San_Salvador'], ["Torre_dell'orologio"]], 33
+[['Monumento_Nazionale_a_Vittorio_Emanuele_II'], ['Museo_Correr']], 33
+[['Collezione_Peggy_Guggenheim'], ["Gallerie_dell'Accademia"]], 33
+[['Palazzo_Foscari_Contarini'], ['Palace_Gardens']], 33
+[["Gallerie_dell'Accademia"], ['Palazzo_Ducale'], ['Palace_Gardens']], 33
+[['Gaggio_Carta_Di_Girotto_Sas'], ['Bauer_Palazzo']], 33
+[['Gaggio_Carta_Di_Girotto_Sas'], ['Palazzo_Foscari_Contarini']], 33
+[['Fontego_dei_Tedeschi'], ['Ponte_dei_Sospiri']], 33
+[['Fontego_dei_Tedeschi'], ['Monumento_Nazionale_a_Vittorio_Emanuele_II']], 33
+[['Fontego_dei_Tedeschi'], ["Torre_dell'orologio"], ["Torre_dell'orologio"]], 33
+[['Fontego_dei_Tedeschi'], ['Palazzo_Ducale'], ['Fontego_dei_Tedeschi']], 33
+[['Fontego_dei_Tedeschi'], ['Palazzo_Ducale'], ['Palazzo_Ducale'], ['Palazzo_Ducale']], 33
+[["Torre_dell'orologio"], ['Palazzo_Ducale'], ['Ponte_dei_Sospiri']], 33
+[["Torre_dell'orologio"], ['Palazzo_Ducale'], ['Palace_Gardens'], ['Palazzo_Ducale']], 33
+[['Palazzo_Ducale'], ['Chiesa_di_San_Mois?']], 33
+[['Palazzo_Ducale'], ['Palace_Gardens'], ['Basilica_di_Santa_Maria_della_Salute']], 33
+[['Palazzo_Ducale'], ['Palace_Gardens'], ['Palazzo_Ducale'], ["Torre_dell'orologio"]], 33
+[['Palazzo_Ducale'], ['Palazzo_Ducale'], ['Palazzo_Ducale'], ['Palazzo_Ducale'], ['Palazzo_Ducale']], 33
+[['Monumento_Nazionale_a_Vittorio_Emanuele_II'], ["Torre_dell'orologio"]], 32
+[['Collezione_Peggy_Guggenheim'], ['Basilica_di_Santa_Maria_della_Salute']], 32
+[['Ponte_dei_Sospiri'], ['Museo_Correr']], 32
+[['Bauer_Palazzo'], ['Museo_Correr']], 32
+[['Basilica_di_Santa_Maria_della_Salute'], ['Bauer_Palazzo']], 32
+[['Gaggio_Carta_Di_Girotto_Sas'], ['Fontego_dei_Tedeschi'], ['Palazzo_Ducale']], 32
+[['Gaggio_Carta_Di_Girotto_Sas'], ["Torre_dell'orologio"], ['Palazzo_Ducale']], 32
+[['Palace_Gardens'], ['Palazzo_Ducale'], ["Gallerie_dell'Accademia"]], 32
+[['Palace_Gardens'], ['Palazzo_Ducale'], ["Torre_dell'orologio"], ['Palazzo_Ducale']], 32
+[['Museo_Correr'], ['Museo_Correr'], ["Torre_dell'orologio"]], 32
+[['Museo_Correr'], ['Palazzo_Ducale'], ["Gallerie_dell'Accademia"]], 32
+[['Museo_Correr'], ['Palazzo_Ducale'], ["Torre_dell'orologio"], ['Palazzo_Ducale']], 32
+[['Fontego_dei_Tedeschi'], ['Palazzo_Ducale'], ["Gallerie_dell'Accademia"]], 32
+[['Palazzo_Ducale'], ['Fontego_dei_Tedeschi'], ['Fontego_dei_Tedeschi']], 32
+[['Palazzo_Ducale'], ['Fontego_dei_Tedeschi'], ['Palazzo_Ducale'], ['Palazzo_Ducale']], 32
+[['Palazzo_Ducale'], ['Museo_Correr'], ['Palace_Gardens'], ['Palazzo_Ducale']], 32
+[['Palazzo_Ducale'], ["Torre_dell'orologio"], ['Fontego_dei_Tedeschi'], ['Palazzo_Ducale']], 32
+[['Palazzo_Ducale'], ["Torre_dell'orologio"], ['Museo_Correr'], ['Palazzo_Ducale']], 32
+[['Palazzo_Ducale'], ['Palazzo_Ducale'], ['Palazzo_Ducale'], ['Museo_Correr']], 32
+[['Campo_di_San_Silvestro']], 31
+[['Basilica_di_San_Marco']], 31
+[['Ponte_dei_Tre_Archi']], 31
+[['Palazzo_Santa_Maria_del_Giglio'], ["Torre_dell'orologio"]], 31
+[['Palazzo_Santa_Maria_del_Giglio'], ["Gallerie_dell'Accademia"]], 31
+[['Ponte_dei_Sospiri'], ['Palazzo_Ducale'], ["Torre_dell'orologio"]], 31
+[['Bauer_Palazzo'], ['Basilica_di_Santa_Maria_della_Salute']], 31
+[['Basilica_di_Santa_Maria_della_Salute'], ['Palazzo_Ducale'], ['Palazzo_Ducale']], 31
+[["Gallerie_dell'Accademia"], ['Palazzo_Ducale'], ['Museo_Correr']], 31
+[['Palace_Gardens'], ['Palazzo_Ducale'], ['Fontego_dei_Tedeschi']], 31
+[['Museo_Correr'], ['Monumento_Nazionale_a_Vittorio_Emanuele_II']], 31
+[['Museo_Correr'], ["Ponte_dell'Accademia"]], 31
+[['Museo_Correr'], ["Torre_dell'orologio"], ['Palazzo_Ducale'], ['Palazzo_Ducale']], 31
+[['Fontego_dei_Tedeschi'], ['Collezione_Peggy_Guggenheim']], 31
+[['Fontego_dei_Tedeschi'], ['Palazzo_Santa_Maria_del_Giglio']], 31
+[['Fontego_dei_Tedeschi'], ['Galleria_Franchetti']], 31
+[["Torre_dell'orologio"], ['Gaggio_Carta_Di_Girotto_Sas'], ['Palazzo_Ducale']], 31
+[["Torre_dell'orologio"], ['Fontego_dei_Tedeschi'], ["Torre_dell'orologio"]], 31
+[["Torre_dell'orologio"], ['Palazzo_Ducale'], ['Monumento_Nazionale_a_Vittorio_Emanuele_II']], 31
+[['Palazzo_Ducale'], ['Campo_San_Provolo']], 31
+[['Palazzo_Ducale'], ['Chiesa_di_San_Salvador'], ['Palazzo_Ducale']], 31
+[['Palazzo_Ducale'], ['Chiesa_di_San_Giorgio_Maggiore'], ['Palazzo_Ducale']], 31
+[['Palazzo_Ducale'], ['Museo_Correr'], ["Gallerie_dell'Accademia"]], 31
+[['Palazzo_Ducale'], ['Museo_Correr'], ['Palazzo_Ducale'], ["Torre_dell'orologio"]], 31
+[['Palazzo_Ducale'], ["Torre_dell'orologio"], ['Palace_Gardens'], ['Palazzo_Ducale']], 31
+[['Palazzo_Ducale'], ["Torre_dell'orologio"], ['Palazzo_Ducale'], ['Fontego_dei_Tedeschi']], 31
+[['Palazzo_Ducale'], ["Torre_dell'orologio"], ['Palazzo_Ducale'], ["Torre_dell'orologio"], ['Palazzo_Ducale']], 31
+[['Palazzo_Ducale'], ['Palazzo_Ducale'], ["Torre_dell'orologio"], ['Palazzo_Ducale'], ['Palazzo_Ducale']], 31
+[['Palazzo_Ducale'], ['Palazzo_Ducale'], ['Palazzo_Ducale'], ["Torre_dell'orologio"], ['Palazzo_Ducale']], 31
+[['Ponte_delle_Guglie']], 30
+[["Ponte_dell'Accademia"], ["Torre_dell'orologio"]], 30
+[['Palazzo_Santa_Maria_del_Giglio'], ['Fontego_dei_Tedeschi']], 30
+[['Monumento_Nazionale_a_Vittorio_Emanuele_II'], ['Fontego_dei_Tedeschi']], 30
+[['Monumento_Nazionale_a_Vittorio_Emanuele_II'], ['Ponte_dei_Sospiri']], 30
+[['Campo_San_Zaccaria'], ['Palazzo_Ducale'], ['Palazzo_Ducale']], 30
+[['Palazzo_Foscari_Contarini'], ['Museo_Correr']], 30
+[["Gallerie_dell'Accademia"], ['Basilica_di_Santa_Maria_della_Salute'], ['Palazzo_Ducale']], 30
+[["Gallerie_dell'Accademia"], ['Palazzo_Ducale'], ["Gallerie_dell'Accademia"]], 30
+[['Gaggio_Carta_Di_Girotto_Sas'], ['Palazzo_Ducale'], ["Torre_dell'orologio"]], 30
+[['Fontego_dei_Tedeschi'], ['Gaggio_Carta_Di_Girotto_Sas'], ["Torre_dell'orologio"]], 30
+[["Torre_dell'orologio"], ['Collezione_Peggy_Guggenheim']], 30
+[["Torre_dell'orologio"], ['Ponte_dei_Sospiri'], ['Palazzo_Ducale']], 30
+[["Torre_dell'orologio"], ['Palazzo_Ducale'], ['Museo_Correr'], ['Palazzo_Ducale']], 30
+[["Torre_dell'orologio"], ['Palazzo_Ducale'], ['Palazzo_Ducale'], ['Palazzo_Ducale'], ['Palazzo_Ducale']], 30
+[['Palazzo_Ducale'], ['Santa_Maria_del_Rosario']], 30
+[['Palazzo_Ducale'], ['Arsenale_di_Venezia']], 30
+[['Palazzo_Ducale'], ['Campo_Santo_Stefano']], 30
+[['Palazzo_Ducale'], ['Gaggio_Carta_Di_Girotto_Sas'], ['Fontego_dei_Tedeschi']], 30
+[['Palazzo_Ducale'], ["Gallerie_dell'Accademia"], ["Torre_dell'orologio"]], 30
+[['Palazzo_Ducale'], ['Fontego_dei_Tedeschi'], ['Museo_Correr']], 30
+[['Palazzo_Ducale'], ['Museo_Correr'], ['Museo_Correr'], ['Palazzo_Ducale']], 30
+[['Palazzo_Ducale'], ['Museo_Correr'], ['Palazzo_Ducale'], ['Palace_Gardens']], 30
+[['Palazzo_Ducale'], ["Torre_dell'orologio"], ['Ponte_dei_Sospiri']], 30
+[['Palazzo_Ducale'], ["Torre_dell'orologio"], ["Gallerie_dell'Accademia"]], 30
+[['Palazzo_Ducale'], ["Torre_dell'orologio"], ['Palazzo_Ducale'], ['Palazzo_Ducale'], ['Palazzo_Ducale']], 30
+[['Palazzo_Ducale'], ['Palazzo_Ducale'], ["Ponte_dell'Accademia"]], 30
+[['Palazzo_Ducale'], ['Palazzo_Ducale'], ['Palazzo_Ducale'], ['Fontego_dei_Tedeschi']], 30
+[["Chiesa_di_San_Giacomo_dell'Orio"]], 29
+[['La_Biennale_di_Venezia_-_Giardini']], 29
+[['Galleria_Franchetti'], ['Fontego_dei_Tedeschi']], 29
+[['Campo_San_Zaccaria'], ['Palace_Gardens']], 29
+[['Ponte_dei_Sospiri'], ["Torre_dell'orologio"], ['Palazzo_Ducale']], 29
+[['Basilica_di_Santa_Maria_della_Salute'], ['Fontego_dei_Tedeschi']], 29
+[["Gallerie_dell'Accademia"], ['Palazzo_Santa_Maria_del_Giglio']], 29
+[['Palace_Gardens'], ['Collezione_Peggy_Guggenheim']], 29
+[['Palace_Gardens'], ['Monumento_Nazionale_a_Vittorio_Emanuele_II']], 29
+[['Museo_Correr'], ["Torre_dell'orologio"], ["Torre_dell'orologio"]], 29
+[['Museo_Correr'], ['Palace_Gardens'], ['Palace_Gardens']], 29
+[['Museo_Correr'], ['Palazzo_Ducale'], ['Ponte_dei_Sospiri']], 29
+[['Museo_Correr'], ['Palazzo_Ducale'], ['Museo_Correr'], ['Palazzo_Ducale']], 29
+[['Museo_Correr'], ['Palazzo_Ducale'], ['Palazzo_Ducale'], ["Torre_dell'orologio"]], 29
+[["Torre_dell'orologio"], ['Museo_Correr'], ['Museo_Correr']], 29
+[["Torre_dell'orologio"], ['Museo_Correr'], ["Torre_dell'orologio"], ['Palazzo_Ducale']], 29
+[["Torre_dell'orologio"], ['Museo_Correr'], ['Palazzo_Ducale'], ["Torre_dell'orologio"]], 29
+[["Torre_dell'orologio"], ['Museo_Correr'], ['Palazzo_Ducale'], ['Palazzo_Ducale']], 29
+[["Torre_dell'orologio"], ["Torre_dell'orologio"], ['Palazzo_Ducale'], ["Torre_dell'orologio"]], 29
+[["Torre_dell'orologio"], ['Palazzo_Ducale'], ["Ponte_dell'Accademia"]], 29
+[["Torre_dell'orologio"], ['Palazzo_Ducale'], ["Torre_dell'orologio"], ["Torre_dell'orologio"]], 29
+[['Palazzo_Ducale'], ['Galleria_Dorothea_Van_Der_Koelen']], 29
+[['Palazzo_Ducale'], ["Ca'_Foscari_Zattere_-_Cultural_flow_zone"]], 29
+[['Palazzo_Ducale'], ['Chiesa_di_Santa_Maria_Gloriosa_dei_Frari']], 29
+[['Palazzo_Ducale'], ['Ponte_dei_Sospiri'], ['Palazzo_Ducale'], ['Palazzo_Ducale']], 29
+[['Palazzo_Ducale'], ['Museo_Correr'], ['Basilica_di_Santa_Maria_della_Salute']], 29
+[['Palazzo_Ducale'], ["Torre_dell'orologio"], ['Palazzo_Santa_Maria_del_Giglio']], 29
+[['Palazzo_Ducale'], ["Torre_dell'orologio"], ["Ponte_dell'Accademia"]], 29
+[['Palazzo_Ducale'], ['Palazzo_Ducale'], ["Torre_dell'orologio"], ["Torre_dell'orologio"]], 29
+[['Ponte_della_Costituzione'], ['Palazzo_Ducale']], 28
+[['Chiesa_di_San_Salvador'], ['Fontego_dei_Tedeschi']], 28
+[["Opera_Santa_Maria_Della_Carita'"], ['Museo_Correr']], 28
+[['Basilica_di_Santa_Maria_della_Salute'], ['Collezione_Peggy_Guggenheim']], 28
+[['Palace_Gardens'], ['Campo_San_Zaccaria']], 28
+[['Palace_Gardens'], ['Palazzo_Ducale'], ['Museo_Correr'], ['Palazzo_Ducale']], 28
+[['Palace_Gardens'], ['Palazzo_Ducale'], ['Palace_Gardens'], ['Palazzo_Ducale']], 28
+[['Palace_Gardens'], ['Palazzo_Ducale'], ['Palazzo_Ducale'], ["Torre_dell'orologio"]], 28
+[['Museo_Correr'], ['Collezione_Peggy_Guggenheim']], 28
+[['Museo_Correr'], ['Chiesa_di_San_Mois?']], 28
+[['Museo_Correr'], ['Fontego_dei_Tedeschi'], ['Palazzo_Ducale']], 28
+[['Museo_Correr'], ["Torre_dell'orologio"], ['Museo_Correr']], 28
+[['Museo_Correr'], ["Torre_dell'orologio"], ['Palace_Gardens']], 28
+[['Museo_Correr'], ['Palazzo_Ducale'], ['Campo_San_Zaccaria']], 28
+[['Fontego_dei_Tedeschi'], ["Gallerie_dell'Accademia"], ['Palazzo_Ducale']], 28
+[['Fontego_dei_Tedeschi'], ["Torre_dell'orologio"], ['Palace_Gardens']], 28
+[['Fontego_dei_Tedeschi'], ['Palazzo_Ducale'], ['Campo_San_Zaccaria']], 28
+[["Torre_dell'orologio"], ['Chiesa_di_San_Salvador']], 28
+[['Palazzo_Ducale'], ['Chiesa_San_Biagio']], 28
+[['Palazzo_Ducale'], ['Fontego_dei_Tedeschi'], ['Palace_Gardens']], 28
+[['Palazzo_Ducale'], ['Museo_Correr'], ['Palazzo_Santa_Maria_del_Giglio']], 28
+[['Palazzo_Ducale'], ['Palace_Gardens'], ['Bauer_Palazzo']], 28
+[['Palazzo_Ducale'], ["Torre_dell'orologio"], ['Campo_San_Zaccaria']], 28
+[['Palazzo_Ducale'], ["Torre_dell'orologio"], ['Basilica_di_Santa_Maria_della_Salute']], 28
+[['Palazzo_Ducale'], ['Palazzo_Ducale'], ['Ponte_dei_Sospiri'], ['Palazzo_Ducale']], 28
+[['Palazzo_Ducale'], ['Palazzo_Ducale'], ["Gallerie_dell'Accademia"], ['Palazzo_Ducale']], 28
+[['Chiesa_degli_Scalzi']], 27
+[['Pavilion_of_Turkey']], 27
+[['Ponte_di_Rialto'], ['Palazzo_Ducale']], 27
+[["Ca'_Pesaro_Galleria_Internazionale_d'Arte_Moderna"], ['Palazzo_Ducale']], 27
+[['Campanile_e_Chiesa_degli_Santi_Apostoli'], ['Palazzo_Ducale']], 27
+[["Ca'_Foscari_Zattere_-_Cultural_flow_zone"], ['Palazzo_Ducale']], 27
+[['Chiesa_Santa_Maria_della_Fava'], ["Torre_dell'orologio"]], 27
+[['Chiesa_Santa_Maria_della_Fava'], ['Fontego_dei_Tedeschi']], 27
+[['Palazzo_Santa_Maria_del_Giglio'], ['Museo_Correr']], 27
+[['Monumento_Nazionale_a_Vittorio_Emanuele_II'], ['Palazzo_Ducale'], ['Palazzo_Ducale']], 27
+[['Campo_San_Zaccaria'], ['Museo_Correr']], 27
+[['Ponte_dei_Sospiri'], ['Palazzo_Ducale'], ['Museo_Correr']], 27
+[['Ponte_dei_Sospiri'], ['Palazzo_Ducale'], ['Palace_Gardens']], 27
+[['Basilica_di_Santa_Maria_della_Salute'], ['Punta_della_Dogana_di_Mare']], 27
+[['Palazzo_Foscari_Contarini'], ["Gallerie_dell'Accademia"]], 27
+[["Gallerie_dell'Accademia"], ['Punta_della_Dogana_di_Mare']], 27
+[["Gallerie_dell'Accademia"], ['Ponte_dei_Sospiri']], 27
+[['Gaggio_Carta_Di_Girotto_Sas'], ['Basilica_di_Santa_Maria_della_Salute']], 27
+[['Palace_Gardens'], ["Ponte_dell'Accademia"]], 27
+[['Palace_Gardens'], ['Fontego_dei_Tedeschi'], ['Palazzo_Ducale']], 27
+[['Palace_Gardens'], ['Palace_Gardens'], ['Palace_Gardens']], 27
+[['Palace_Gardens'], ['Museo_Correr'], ["Torre_dell'orologio"]], 27
+[['Palace_Gardens'], ['Palazzo_Ducale'], ['Ponte_dei_Sospiri']], 27
+[['Museo_Correr'], ['Bauer_Palazzo']], 27
+[['Museo_Correr'], ['Museo_Correr'], ['Palazzo_Ducale'], ['Palazzo_Ducale']], 27
+[['Fontego_dei_Tedeschi'], ['Museo_Correr'], ["Torre_dell'orologio"]], 27
+[['Fontego_dei_Tedeschi'], ['Palazzo_Ducale'], ['Palazzo_Ducale'], ["Torre_dell'orologio"]], 27
+[["Torre_dell'orologio"], ['Chiesa_di_San_Mois?']], 27
+[["Torre_dell'orologio"], ['Chiesa_Santa_Maria_della_Fava']], 27
+[["Torre_dell'orologio"], ["Torre_dell'orologio"], ['Palazzo_Ducale'], ['Palazzo_Ducale']], 27
+[["Torre_dell'orologio"], ['Palazzo_Ducale'], ['Basilica_di_Santa_Maria_della_Salute']], 27
+[["Torre_dell'orologio"], ['Palazzo_Ducale'], ['Fontego_dei_Tedeschi'], ['Palazzo_Ducale']], 27
+[['Palazzo_Ducale'], ['Chiesa_dei_Miracoli']], 27
+[['Palazzo_Ducale'], ['Campo_San_Geremia']], 27
+[['Palazzo_Ducale'], ['Palazzo_Santa_Maria_del_Giglio'], ['Palazzo_Ducale']], 27
+[['Palazzo_Ducale'], ['Collezione_Peggy_Guggenheim'], ['Palazzo_Ducale']], 27
+[['Palazzo_Ducale'], ['Ponte_dei_Sospiri'], ["Torre_dell'orologio"]], 27
+[['Palazzo_Ducale'], ['Fontego_dei_Tedeschi'], ['Basilica_di_Santa_Maria_della_Salute']], 27
+[['Palazzo_Ducale'], ['Museo_Correr'], ['Gaggio_Carta_Di_Girotto_Sas']], 27
+[['Palazzo_Ducale'], ['Museo_Correr'], ['Campo_San_Zaccaria']], 27
+[['Palazzo_Ducale'], ['Museo_Correr'], ['Ponte_dei_Sospiri']], 27
+[['Palazzo_Ducale'], ["Torre_dell'orologio"], ["Torre_dell'orologio"], ["Torre_dell'orologio"]], 27
+[['Palazzo_Ducale'], ["Torre_dell'orologio"], ['Palazzo_Ducale'], ['Palazzo_Ducale'], ["Torre_dell'orologio"]], 27
+[['Palazzo_Ducale'], ['Palazzo_Ducale'], ['Collezione_Peggy_Guggenheim']], 27
+[['Palazzo_Ducale'], ['Palazzo_Ducale'], ['Palazzo_Foscari_Contarini']], 27
+[['Palazzo_Ducale'], ['Palazzo_Ducale'], ['Monumento_Nazionale_a_Vittorio_Emanuele_II']], 27
+[['Palazzo_Ducale'], ['Palazzo_Ducale'], ['Galleria_Franchetti']], 27
+[['Palazzo_Ducale'], ['Palazzo_Ducale'], ['Museo_Correr'], ['Palace_Gardens']], 27
+[['Palazzo_Ducale'], ['Palazzo_Ducale'], ['Museo_Correr'], ['Museo_Correr']], 27
+[['Palazzo_Ducale'], ['Palazzo_Ducale'], ['Palazzo_Ducale'], ['Palazzo_Ducale'], ["Torre_dell'orologio"]], 27
+[['Palazzo_Labia']], 26
+[["Ca'_Foscari"], ['Palazzo_Ducale']], 26
+[['Campo_Santo_Stefano'], ['Palazzo_Ducale']], 26
+[['Campo_San_Provolo'], ['Palazzo_Ducale']], 26
+[['Galleria_Franchetti'], ['Palace_Gardens']], 26
+[["Opera_Santa_Maria_Della_Carita'"], ['Palace_Gardens']], 26
+[['Palazzo_Santa_Maria_del_Giglio'], ["Ponte_dell'Accademia"]], 26
+[['Monumento_Nazionale_a_Vittorio_Emanuele_II'], ['Palazzo_Ducale'], ['Museo_Correr']], 26
+[['Ponte_dei_Sospiri'], ['Monumento_Nazionale_a_Vittorio_Emanuele_II']], 26
+[['Ponte_dei_Sospiri'], ['Palazzo_Ducale'], ["Torre_dell'orologio"], ['Palazzo_Ducale']], 26
+[['Bauer_Palazzo'], ['Palazzo_Ducale'], ['Palazzo_Ducale']], 26
+[['Basilica_di_Santa_Maria_della_Salute'], ['Chiesa_di_San_Giorgio_Maggiore']], 26
+[['Palazzo_Foscari_Contarini'], ['Palazzo_Foscari_Contarini']], 26
+[['Palazzo_Foscari_Contarini'], ["Torre_dell'orologio"], ['Palazzo_Ducale']], 26
+[['Palazzo_Foscari_Contarini'], ['Palazzo_Ducale'], ["Torre_dell'orologio"]], 26
+[["Gallerie_dell'Accademia"], ['Campo_San_Zaccaria']], 26
+[['Gaggio_Carta_Di_Girotto_Sas'], ['Museo_Correr'], ['Palazzo_Ducale']], 26
+[['Palace_Gardens'], ['Ponte_dei_Sospiri'], ['Palazzo_Ducale']], 26
+[['Palace_Gardens'], ['Museo_Correr'], ['Palace_Gardens']], 26
+[['Palace_Gardens'], ['Palazzo_Ducale'], ['Gaggio_Carta_Di_Girotto_Sas']], 26
+[['Palace_Gardens'], ['Palazzo_Ducale'], ['Palazzo_Ducale'], ['Palace_Gardens']], 26
+[['Museo_Correr'], ["Torre_dell'orologio"], ['Fontego_dei_Tedeschi']], 26
+[['Museo_Correr'], ["Torre_dell'orologio"], ['Palazzo_Ducale'], ["Torre_dell'orologio"]], 26
+[['Museo_Correr'], ['Palace_Gardens'], ["Torre_dell'orologio"]], 26
+[['Museo_Correr'], ['Palace_Gardens'], ['Palazzo_Ducale'], ['Palazzo_Ducale']], 26
+[['Fontego_dei_Tedeschi'], ["Opera_Santa_Maria_Della_Carita'"]], 26
+[['Fontego_dei_Tedeschi'], ['Basilica_di_Santa_Maria_della_Salute'], ['Palazzo_Ducale']], 26
+[['Fontego_dei_Tedeschi'], ['Fontego_dei_Tedeschi'], ["Torre_dell'orologio"]], 26
+[['Fontego_dei_Tedeschi'], ['Gaggio_Carta_Di_Girotto_Sas'], ['Fontego_dei_Tedeschi']], 26
+[['Fontego_dei_Tedeschi'], ["Torre_dell'orologio"], ['Palazzo_Ducale'], ['Palazzo_Ducale']], 26
+[["Torre_dell'orologio"], ['Fontego_dei_Tedeschi'], ['Gaggio_Carta_Di_Girotto_Sas']], 26
+[["Torre_dell'orologio"], ['Palace_Gardens'], ["Torre_dell'orologio"]], 26
+[["Torre_dell'orologio"], ['Museo_Correr'], ['Fontego_dei_Tedeschi']], 26
+[["Torre_dell'orologio"], ["Torre_dell'orologio"], ['Fontego_dei_Tedeschi']], 26
+[["Torre_dell'orologio"], ["Torre_dell'orologio"], ['Palace_Gardens']], 26
+[["Torre_dell'orologio"], ['Palazzo_Ducale'], ['Palazzo_Santa_Maria_del_Giglio']], 26
+[["Torre_dell'orologio"], ['Palazzo_Ducale'], ['Palazzo_Ducale'], ['Palace_Gardens']], 26
+[["Torre_dell'orologio"], ['Palazzo_Ducale'], ['Palazzo_Ducale'], ["Torre_dell'orologio"], ['Palazzo_Ducale']], 26
+[['Palazzo_Ducale'], ['Ponte_della_Costituzione']], 26
+[['Palazzo_Ducale'], ["Ponte_dell'Accademia"], ["Gallerie_dell'Accademia"]], 26
+[['Palazzo_Ducale'], ['Ponte_dei_Sospiri'], ['Palace_Gardens']], 26
+[['Palazzo_Ducale'], ['Gaggio_Carta_Di_Girotto_Sas'], ["Torre_dell'orologio"]], 26
+[['Palazzo_Ducale'], ['Basilica_di_Santa_Maria_della_Salute'], ["Gallerie_dell'Accademia"]], 26
+[['Palazzo_Ducale'], ["Gallerie_dell'Accademia"], ['Palace_Gardens']], 26
+[['Palazzo_Ducale'], ['Museo_Correr'], ['Palazzo_Ducale'], ['Fontego_dei_Tedeschi']], 26
+[['Palazzo_Ducale'], ['Palace_Gardens'], ['Museo_Correr'], ['Palazzo_Ducale']], 26
+[['Palazzo_Ducale'], ["Torre_dell'orologio"], ['Fontego_dei_Tedeschi'], ["Torre_dell'orologio"]], 26
+[['Palazzo_Ducale'], ["Torre_dell'orologio"], ['Museo_Correr'], ["Torre_dell'orologio"]], 26
+[['Palazzo_Ducale'], ["Torre_dell'orologio"], ['Palazzo_Ducale'], ['Gaggio_Carta_Di_Girotto_Sas']], 26
+[['Palazzo_Ducale'], ['Palazzo_Ducale'], ["Opera_Santa_Maria_Della_Carita'"]], 26
+[['Palazzo_Ducale'], ['Palazzo_Ducale'], ['Chiesa_di_San_Giorgio_Maggiore']], 26
+[['Palazzo_Ducale'], ['Palazzo_Ducale'], ['Palazzo_Ducale'], ['Palazzo_Ducale'], ['Palazzo_Ducale'], ['Palazzo_Ducale']], 26
+[['Palazzo_Contarini_del_Bovolo'], ['Palazzo_Ducale']], 25
+[['Chiesa_San_Felice'], ['Palazzo_Ducale']], 25
+[['Chiesa_di_San_Mois?'], ['Museo_Correr']], 25
+[['Chiesa_di_San_Barnaba'], ["Gallerie_dell'Accademia"]], 25
+[['Galleria_Franchetti'], ["Gallerie_dell'Accademia"]], 25
+[['Galleria_Franchetti'], ['Museo_Correr']], 25
+[['Chiesa_di_San_Giorgio_Maggiore'], ["Torre_dell'orologio"]], 25
+[["Ponte_dell'Accademia"], ['Museo_Correr']], 25
+[["Ponte_dell'Accademia"], ['Collezione_Peggy_Guggenheim']], 25
+[['Palazzo_Santa_Maria_del_Giglio'], ['Palazzo_Ducale'], ['Palazzo_Ducale']], 25
+[['Monumento_Nazionale_a_Vittorio_Emanuele_II'], ["Gallerie_dell'Accademia"]], 25
+[['Monumento_Nazionale_a_Vittorio_Emanuele_II'], ['Palazzo_Ducale'], ["Torre_dell'orologio"]], 25
+[['Collezione_Peggy_Guggenheim'], ["Torre_dell'orologio"]], 25
+[['Collezione_Peggy_Guggenheim'], ['Fontego_dei_Tedeschi']], 25
+[['Campo_San_Zaccaria'], ["Torre_dell'orologio"], ['Palazzo_Ducale']], 25
+[['Campo_San_Zaccaria'], ['Palazzo_Ducale'], ["Torre_dell'orologio"]], 25
+[['Palazzo_Foscari_Contarini'], ['Gaggio_Carta_Di_Girotto_Sas']], 25
+[["Gallerie_dell'Accademia"], ['Palazzo_Foscari_Contarini']], 25
+[["Gallerie_dell'Accademia"], ['Monumento_Nazionale_a_Vittorio_Emanuele_II']], 25
+[["Gallerie_dell'Accademia"], ["Ca'_Foscari_Zattere_-_Cultural_flow_zone"]], 25
+[["Gallerie_dell'Accademia"], ['Fontego_dei_Tedeschi'], ['Palazzo_Ducale']], 25
+[["Gallerie_dell'Accademia"], ['Palazzo_Ducale'], ['Fontego_dei_Tedeschi']], 25
+[["Gallerie_dell'Accademia"], ['Palazzo_Ducale'], ['Museo_Correr'], ['Palazzo_Ducale']], 25
+[['Palace_Gardens'], ['Palazzo_Santa_Maria_del_Giglio']], 25
+[['Palace_Gardens'], ['Palazzo_Ducale'], ['Basilica_di_Santa_Maria_della_Salute']], 25
+[['Museo_Correr'], ['Palazzo_Foscari_Contarini']], 25
+[['Museo_Correr'], ['Galleria_Franchetti']], 25
+[['Museo_Correr'], ["Gallerie_dell'Accademia"], ['Palazzo_Ducale']], 25
+[['Museo_Correr'], ['Museo_Correr'], ['Palace_Gardens']], 25
+[['Museo_Correr'], ['Palace_Gardens'], ['Fontego_dei_Tedeschi']], 25
+[['Museo_Correr'], ['Palazzo_Ducale'], ['Monumento_Nazionale_a_Vittorio_Emanuele_II']], 25
+[['Museo_Correr'], ['Palazzo_Ducale'], ['Gaggio_Carta_Di_Girotto_Sas']], 25
+[['Fontego_dei_Tedeschi'], ['Chiesa_di_San_Silvestro_I_Papa']], 25
+[['Fontego_dei_Tedeschi'], ['Ponte_dei_Sospiri'], ['Palazzo_Ducale']], 25
+[['Fontego_dei_Tedeschi'], ['Fontego_dei_Tedeschi'], ['Palazzo_Ducale'], ['Palazzo_Ducale']], 25
+[['Fontego_dei_Tedeschi'], ['Palazzo_Ducale'], ['Ponte_dei_Sospiri']], 25
+[["Torre_dell'orologio"], ['Campo_San_Geremia']], 25
+[["Torre_dell'orologio"], ['Basilica_di_Santa_Maria_della_Salute'], ['Palazzo_Ducale']], 25
+[["Torre_dell'orologio"], ['Palace_Gardens'], ['Museo_Correr']], 25
+[["Torre_dell'orologio"], ['Palace_Gardens'], ['Palace_Gardens']], 25
+[["Torre_dell'orologio"], ['Museo_Correr'], ['Palazzo_Ducale'], ['Palace_Gardens']], 25
+[["Torre_dell'orologio"], ['Palazzo_Ducale'], ['Bauer_Palazzo']], 25
+[["Torre_dell'orologio"], ['Palazzo_Ducale'], ['Palazzo_Ducale'], ['Museo_Correr']], 25
+[['Palazzo_Ducale'], ["Gallerie_dell'Accademia"], ['Collezione_Peggy_Guggenheim']], 25
+[['Palazzo_Ducale'], ['Fontego_dei_Tedeschi'], ['Palazzo_Ducale'], ["Torre_dell'orologio"]], 25
+[['Palazzo_Ducale'], ['Museo_Correr'], ['Palazzo_Ducale'], ['Museo_Correr']], 25
+[['Palazzo_Ducale'], ['Palace_Gardens'], ['Ponte_dei_Sospiri']], 25
+[['Palazzo_Ducale'], ['Palace_Gardens'], ['Gaggio_Carta_Di_Girotto_Sas']], 25
+[['Palazzo_Ducale'], ['Palace_Gardens'], ["Torre_dell'orologio"], ['Palazzo_Ducale']], 25
+[['Palazzo_Ducale'], ['Palace_Gardens'], ['Palazzo_Ducale'], ["Gallerie_dell'Accademia"]], 25
+[['Palazzo_Ducale'], ["Torre_dell'orologio"], ['Palazzo_Ducale'], ['Ponte_dei_Sospiri']], 25
+[['Palazzo_Ducale'], ['Palazzo_Ducale'], ['Chiesa_di_San_Salvador']], 25
+[['Palazzo_Ducale'], ['Palazzo_Ducale'], ['Basilica_di_Santa_Maria_della_Salute'], ['Palazzo_Ducale']], 25
+[['Palazzo_Ducale'], ['Palazzo_Ducale'], ['Museo_Correr'], ["Torre_dell'orologio"]], 25
+[['Palazzo_Ducale'], ['Palazzo_Ducale'], ['Museo_Correr'], ['Fontego_dei_Tedeschi']], 25
+[['Palazzo_Ducale'], ['Palazzo_Ducale'], ['Fontego_dei_Tedeschi'], ["Torre_dell'orologio"]], 25
+[['Palazzo_Ducale'], ['Palazzo_Ducale'], ["Torre_dell'orologio"], ['Museo_Correr']], 25
+[['Palazzo_Ducale'], ['Palazzo_Ducale'], ["Torre_dell'orologio"], ['Fontego_dei_Tedeschi']], 25
+[['Palazzo_Ducale'], ['Palazzo_Ducale'], ["Torre_dell'orologio"], ['Palazzo_Ducale'], ["Torre_dell'orologio"]], 25
+[['Palazzo_Ducale'], ['Palazzo_Ducale'], ['Palazzo_Ducale'], ['Basilica_di_Santa_Maria_della_Salute']], 25
+[['Campo_di_Ghetto_Nuovo'], ['Palazzo_Ducale']], 24
+[['Campo_Santo_Stefano'], ["Gallerie_dell'Accademia"]], 24
+[['Chiesa_dei_Miracoli'], ['Palazzo_Ducale']], 24
+[['Campo_San_Geremia'], ['Palazzo_Ducale']], 24
+[['Chiesa_di_San_Silvestro_I_Papa'], ['Palazzo_Ducale']], 24
+[["Ponte_dell'Accademia"], ["Ponte_dell'Accademia"]], 24
+[["Ponte_dell'Accademia"], ['Basilica_di_Santa_Maria_della_Salute']], 24
+[['Monumento_Nazionale_a_Vittorio_Emanuele_II'], ['Palace_Gardens']], 24
+[['Monumento_Nazionale_a_Vittorio_Emanuele_II'], ['Basilica_di_Santa_Maria_della_Salute']], 24
+[['Collezione_Peggy_Guggenheim'], ["Ponte_dell'Accademia"]], 24
+[['Collezione_Peggy_Guggenheim'], ['Palace_Gardens']], 24
+[['Ponte_dei_Sospiri'], ['Campo_San_Zaccaria']], 24
+[['Ponte_dei_Sospiri'], ['Fontego_dei_Tedeschi']], 24
+[['Bauer_Palazzo'], ['Fontego_dei_Tedeschi']], 24
+[['Bauer_Palazzo'], ['Collezione_Peggy_Guggenheim']], 24
+[['Bauer_Palazzo'], ['Museo_Correr'], ['Palazzo_Ducale']], 24
+[['Basilica_di_Santa_Maria_della_Salute'], ['Palazzo_Ducale'], ["Torre_dell'orologio"]], 24
+[["Gallerie_dell'Accademia"], ['Chiesa_di_San_Barnaba']], 24
+[["Gallerie_dell'Accademia"], ['Galleria_Franchetti']], 24
+[["Gallerie_dell'Accademia"], ["Gallerie_dell'Accademia"], ['Palazzo_Ducale']], 24
+[["Gallerie_dell'Accademia"], ['Palace_Gardens'], ["Torre_dell'orologio"]], 24
+[["Gallerie_dell'Accademia"], ['Palazzo_Ducale'], ['Palazzo_Ducale'], ['Palazzo_Ducale']], 24
+[['Gaggio_Carta_Di_Girotto_Sas'], ['Palazzo_Ducale'], ['Palace_Gardens']], 24
+[['Palace_Gardens'], ["Opera_Santa_Maria_Della_Carita'"]], 24
+[['Palace_Gardens'], ['Palazzo_Foscari_Contarini']], 24
+[['Palace_Gardens'], ['Museo_Correr'], ['Museo_Correr']], 24
+[['Palace_Gardens'], ['Museo_Correr'], ['Palazzo_Ducale'], ['Palazzo_Ducale']], 24
+[['Museo_Correr'], ['Punta_della_Dogana_di_Mare']], 24
+[['Museo_Correr'], ['Chiesa_di_San_Giorgio_Maggiore']], 24
+[['Museo_Correr'], ['Museo_Correr'], ['Palazzo_Ducale'], ["Torre_dell'orologio"]], 24
+[['Museo_Correr'], ['Palace_Gardens'], ['Museo_Correr'], ['Palazzo_Ducale']], 24
+[['Fontego_dei_Tedeschi'], ['Chiesa_Santa_Maria_della_Fava']], 24
+[['Fontego_dei_Tedeschi'], ['Museo_Correr'], ['Palace_Gardens']], 24
+[["Torre_dell'orologio"], ['Punta_della_Dogana_di_Mare']], 24
+[["Torre_dell'orologio"], ["Torre_dell'orologio"], ['Gaggio_Carta_Di_Girotto_Sas']], 24
+[["Torre_dell'orologio"], ['Palazzo_Ducale'], ['Palazzo_Foscari_Contarini']], 24
+[["Torre_dell'orologio"], ['Palazzo_Ducale'], ['Ponte_dei_Sospiri'], ['Palazzo_Ducale']], 24
+[["Torre_dell'orologio"], ['Palazzo_Ducale'], ["Torre_dell'orologio"], ['Palazzo_Ducale'], ["Torre_dell'orologio"]], 24
+[['Palazzo_Ducale'], ['Chiesa_di_San_Barnaba']], 24
+[['Palazzo_Ducale'], ['Palazzo_Contarini_del_Bovolo']], 24
+[['Palazzo_Ducale'], ["Ponte_dell'Accademia"], ['Palazzo_Ducale']], 24
+[['Palazzo_Ducale'], ['Museo_Correr'], ["Opera_Santa_Maria_Della_Carita'"]], 24
+[['Palazzo_Ducale'], ["Torre_dell'orologio"], ['Galleria_Franchetti']], 24
+[['Palazzo_Ducale'], ["Torre_dell'orologio"], ['Ponte_dei_Sospiri'], ['Palazzo_Ducale']], 24
+[['Palazzo_Ducale'], ["Torre_dell'orologio"], ['Fontego_dei_Tedeschi'], ['Gaggio_Carta_Di_Girotto_Sas']], 24
+[['Palazzo_Ducale'], ["Torre_dell'orologio"], ['Palazzo_Ducale'], ['Museo_Correr']], 24
+[['Palazzo_Ducale'], ['Palazzo_Ducale'], ["Torre_dell'orologio"], ['Palace_Gardens']], 24
+[['Palazzo_Ducale'], ['Palazzo_Ducale'], ['Palazzo_Ducale'], ['Ponte_dei_Sospiri']], 24
+[['Palazzo_Ducale'], ['Palazzo_Ducale'], ['Palazzo_Ducale'], ["Gallerie_dell'Accademia"]], 24
+[["Chiesa_della_Madonna_dell'Orto"]], 23
+[['Galleria_Dorothea_Van_Der_Koelen'], ["Torre_dell'orologio"]], 23
+[['Chiesa_di_San_Mois?'], ['Palace_Gardens']], 23
+[['Punta_della_Dogana_di_Mare'], ['Basilica_di_Santa_Maria_della_Salute']], 23
+[["Opera_Santa_Maria_Della_Carita'"], ['Fontego_dei_Tedeschi']], 23
+[['Monumento_Nazionale_a_Vittorio_Emanuele_II'], ['Gaggio_Carta_Di_Girotto_Sas']], 23
+[['Monumento_Nazionale_a_Vittorio_Emanuele_II'], ["Torre_dell'orologio"], ['Palazzo_Ducale']], 23
+[['Collezione_Peggy_Guggenheim'], ["Gallerie_dell'Accademia"], ['Palazzo_Ducale']], 23
+[['Campo_San_Zaccaria'], ['Campo_San_Zaccaria']], 23
+[['Campo_San_Zaccaria'], ['Ponte_dei_Sospiri']], 23
+[['Ponte_dei_Sospiri'], ['Ponte_dei_Sospiri']], 23
+[['Ponte_dei_Sospiri'], ['Gaggio_Carta_Di_Girotto_Sas']], 23
+[['Ponte_dei_Sospiri'], ['Palazzo_Ducale'], ['Palazzo_Ducale'], ['Palazzo_Ducale']], 23
+[['Isola_di_San_Michelle'], ['Palazzo_Ducale']], 23
+[['Bauer_Palazzo'], ['Bauer_Palazzo']], 23
+[['Bauer_Palazzo'], ['Palace_Gardens'], ['Palazzo_Ducale']], 23
+[['Bauer_Palazzo'], ['Palazzo_Ducale'], ['Palace_Gardens']], 23
+[['Basilica_di_Santa_Maria_della_Salute'], ["Ponte_dell'Accademia"]], 23
+[['Basilica_di_Santa_Maria_della_Salute'], ['Palazzo_Ducale'], ['Palace_Gardens']], 23
+[["Gallerie_dell'Accademia"], ["Ponte_dell'Accademia"], ['Palazzo_Ducale']], 23
+[["Gallerie_dell'Accademia"], ['Collezione_Peggy_Guggenheim'], ['Palazzo_Ducale']], 23
+[["Gallerie_dell'Accademia"], ['Palazzo_Ducale'], ['Basilica_di_Santa_Maria_della_Salute']], 23
+[["Gallerie_dell'Accademia"], ['Palazzo_Ducale'], ["Torre_dell'orologio"], ['Palazzo_Ducale']], 23
+[['Gaggio_Carta_Di_Girotto_Sas'], ['Ponte_dei_Sospiri']], 23
+[['Gaggio_Carta_Di_Girotto_Sas'], ['Campo_San_Zaccaria']], 23
+[['Palace_Gardens'], ['Galleria_Franchetti']], 23
+[['Palace_Gardens'], ['Palace_Gardens'], ['Museo_Correr']], 23
+[['Palace_Gardens'], ["Torre_dell'orologio"], ['Palace_Gardens']], 23
+[['Palace_Gardens'], ['Palazzo_Ducale'], ['Campo_San_Zaccaria']], 23
+[['Museo_Correr'], ['Ponte_dei_Sospiri'], ['Palazzo_Ducale']], 23
+[['Museo_Correr'], ['Museo_Correr'], ['Fontego_dei_Tedeschi']], 23
+[['Museo_Correr'], ['Museo_Correr'], ["Torre_dell'orologio"], ['Palazzo_Ducale']], 23
+[['Museo_Correr'], ['Palace_Gardens'], ['Palazzo_Ducale'], ['Palace_Gardens']], 23
+[['Museo_Correr'], ['Palazzo_Ducale'], ['Basilica_di_Santa_Maria_della_Salute']], 23
+[['Museo_Correr'], ['Palazzo_Ducale'], ['Palace_Gardens'], ['Palazzo_Ducale']], 23
+[['Fontego_dei_Tedeschi'], ['Chiesa_di_San_Giorgio_Maggiore']], 23
+[['Fontego_dei_Tedeschi'], ['Gaggio_Carta_Di_Girotto_Sas'], ['Palace_Gardens']], 23
+[['Fontego_dei_Tedeschi'], ['Palazzo_Ducale'], ['Palazzo_Santa_Maria_del_Giglio']], 23
+[['Fontego_dei_Tedeschi'], ['Palazzo_Ducale'], ['Museo_Correr'], ['Palazzo_Ducale']], 23
+[["Torre_dell'orologio"], ['Campo_Santo_Stefano']], 23
+[["Torre_dell'orologio"], ['Campo_San_Zaccaria'], ['Palazzo_Ducale']], 23
+[["Torre_dell'orologio"], ["Gallerie_dell'Accademia"], ['Palazzo_Ducale']], 23
+[["Torre_dell'orologio"], ['Fontego_dei_Tedeschi'], ['Palazzo_Ducale'], ['Palazzo_Ducale']], 23
+[["Torre_dell'orologio"], ['Palace_Gardens'], ['Fontego_dei_Tedeschi']], 23
+[["Torre_dell'orologio"], ['Palace_Gardens'], ['Palazzo_Ducale'], ['Palazzo_Ducale']], 23
+[["Torre_dell'orologio"], ["Torre_dell'orologio"], ['Museo_Correr']], 23
+[["Torre_dell'orologio"], ['Palazzo_Ducale'], ["Opera_Santa_Maria_Della_Carita'"]], 23
+[["Torre_dell'orologio"], ['Palazzo_Ducale'], ["Torre_dell'orologio"], ['Palazzo_Ducale'], ['Palazzo_Ducale']], 23
+[["Torre_dell'orologio"], ['Palazzo_Ducale'], ['Palazzo_Ducale'], ['Ponte_dei_Sospiri']], 23
+[["Torre_dell'orologio"], ['Palazzo_Ducale'], ['Palazzo_Ducale'], ['Palazzo_Ducale'], ['Palazzo_Ducale'], ['Palazzo_Ducale']], 23
+[['Palazzo_Ducale'], ["Ca'_Pesaro_Galleria_Internazionale_d'Arte_Moderna"]], 23
+[['Palazzo_Ducale'], ['Basilica_dei_Santi_Giovanni_e_Paolo']], 23
+[['Palazzo_Ducale'], ['Campo_di_Ghetto_Nuovo']], 23
+[['Palazzo_Ducale'], ['Campanile_e_Chiesa_degli_Santi_Apostoli']], 23
+[['Palazzo_Ducale'], ['Galleria_Franchetti'], ['Palazzo_Ducale']], 23
+[['Palazzo_Ducale'], ['Campo_San_Zaccaria'], ["Torre_dell'orologio"]], 23
+[['Palazzo_Ducale'], ['Ponte_dei_Sospiri'], ["Torre_dell'orologio"], ['Palazzo_Ducale']], 23
+[['Palazzo_Ducale'], ['Basilica_di_Santa_Maria_della_Salute'], ['Palace_Gardens']], 23
+[['Palazzo_Ducale'], ["Gallerie_dell'Accademia"], ['Basilica_di_Santa_Maria_della_Salute']], 23
+[['Palazzo_Ducale'], ['Fontego_dei_Tedeschi'], ["Gallerie_dell'Accademia"]], 23
+[['Palazzo_Ducale'], ['Fontego_dei_Tedeschi'], ["Torre_dell'orologio"], ['Palazzo_Ducale']], 23
+[['Palazzo_Ducale'], ['Museo_Correr'], ['Fontego_dei_Tedeschi'], ['Palazzo_Ducale']], 23
+[['Palazzo_Ducale'], ['Museo_Correr'], ['Palazzo_Ducale'], ['Palazzo_Ducale'], ['Palazzo_Ducale']], 23
+[['Palazzo_Ducale'], ['Palace_Gardens'], ['Palace_Gardens'], ['Palazzo_Ducale']], 23
+[['Palazzo_Ducale'], ['Palace_Gardens'], ['Palazzo_Ducale'], ['Museo_Correr']], 23
+[['Palazzo_Ducale'], ['Palace_Gardens'], ['Palazzo_Ducale'], ['Palazzo_Ducale'], ['Palazzo_Ducale']], 23
+[['Palazzo_Ducale'], ["Torre_dell'orologio"], ['Palazzo_Foscari_Contarini']], 23
+[['Palazzo_Ducale'], ['Palazzo_Ducale'], ['Museo_Correr'], ['Palazzo_Ducale'], ['Palazzo_Ducale']], 23
+[['Palazzo_Ducale'], ['Palazzo_Ducale'], ['Fontego_dei_Tedeschi'], ['Palazzo_Ducale'], ['Palazzo_Ducale']], 23
+[['Palazzo_Ducale'], ['Palazzo_Ducale'], ['Palazzo_Ducale'], ['Gaggio_Carta_Di_Girotto_Sas']], 23
+[['Palazzo_Ducale'], ['Palazzo_Ducale'], ['Palazzo_Ducale'], ['Museo_Correr'], ['Palazzo_Ducale']], 23
+[['Scuola_di_San_Giorgio_degli_Schiavoni']], 22
+[['Campo_San_Maurizio']], 22
+[['Campo_San_Tom?'], ['Palazzo_Ducale']], 22
+[['Museo_del_Settecento_Veneziano'], ['Palazzo_Ducale']], 22
+[['Chiesa_di_Santa_Maria_Gloriosa_dei_Frari'], ['Palazzo_Ducale']], 22
+[['Chiesa_di_San_Silvestro_I_Papa'], ['Museo_Correr']], 22
+[['Ponte_della_Costituzione'], ['Palazzo_Foscari_Contarini']], 22
+[['Punta_della_Dogana_di_Mare'], ["Gallerie_dell'Accademia"]], 22
+[['Galleria_Franchetti'], ['Fontego_dei_Tedeschi'], ['Palazzo_Ducale']], 22
+[["Ponte_dell'Accademia"], ['Palazzo_Ducale'], ['Palazzo_Ducale']], 22
+[['Palazzo_Santa_Maria_del_Giglio'], ['Bauer_Palazzo']], 22
+[['Palazzo_Santa_Maria_del_Giglio'], ['Basilica_di_Santa_Maria_della_Salute']], 22
+[['Monumento_Nazionale_a_Vittorio_Emanuele_II'], ['Monumento_Nazionale_a_Vittorio_Emanuele_II']], 22
+[['Monumento_Nazionale_a_Vittorio_Emanuele_II'], ['Museo_Correr'], ['Palazzo_Ducale']], 22
+[['Collezione_Peggy_Guggenheim'], ['Bauer_Palazzo']], 22
+[['Collezione_Peggy_Guggenheim'], ['Palazzo_Ducale'], ['Palazzo_Ducale']], 22
+[['Ponte_dei_Sospiri'], ["Gallerie_dell'Accademia"]], 22
+[['Ponte_dei_Sospiri'], ['Palace_Gardens'], ['Palazzo_Ducale']], 22
+[['Ponte_dei_Sospiri'], ["Torre_dell'orologio"], ["Torre_dell'orologio"]], 22
+[['Ponte_dei_Sospiri'], ['Palazzo_Ducale'], ['Palazzo_Ducale'], ["Torre_dell'orologio"]], 22
+[['Bauer_Palazzo'], ['Palazzo_Ducale'], ["Torre_dell'orologio"]], 22
+[['Basilica_di_Santa_Maria_della_Salute'], ["Gallerie_dell'Accademia"], ['Palazzo_Ducale']], 22
+[['Basilica_di_Santa_Maria_della_Salute'], ['Palazzo_Ducale'], ['Museo_Correr']], 22
+[['Palazzo_Foscari_Contarini'], ['Palazzo_Ducale'], ['Palazzo_Ducale']], 22
+[["Gallerie_dell'Accademia"], ['Campo_Santo_Stefano']], 22
+[["Gallerie_dell'Accademia"], ['Chiesa_di_San_Giorgio_Maggiore']], 22
+[["Gallerie_dell'Accademia"], ['Palace_Gardens'], ['Palazzo_Ducale'], ['Palazzo_Ducale']], 22
+[["Gallerie_dell'Accademia"], ['Palazzo_Ducale'], ['Palazzo_Ducale'], ["Torre_dell'orologio"]], 22
+[['Gaggio_Carta_Di_Girotto_Sas'], ['Isola_di_San_Michelle']], 22
+[['Gaggio_Carta_Di_Girotto_Sas'], ['Galleria_Franchetti']], 22
+[['Palace_Gardens'], ["Gallerie_dell'Accademia"], ['Palazzo_Ducale']], 22
+[['Palace_Gardens'], ['Fontego_dei_Tedeschi'], ["Torre_dell'orologio"]], 22
+[['Museo_Correr'], ['Chiesa_di_San_Salvador']], 22
+[['Museo_Correr'], ['Fontego_dei_Tedeschi'], ["Torre_dell'orologio"]], 22
+[['Museo_Correr'], ['Fontego_dei_Tedeschi'], ['Museo_Correr']], 22
+[['Museo_Correr'], ['Museo_Correr'], ['Museo_Correr']], 22
+[['Museo_Correr'], ['Palazzo_Ducale'], ['Palazzo_Ducale'], ['Museo_Correr']], 22
+[['Museo_Correr'], ['Palazzo_Ducale'], ['Palazzo_Ducale'], ["Torre_dell'orologio"], ['Palazzo_Ducale']], 22
+[['Fontego_dei_Tedeschi'], ["Gallerie_dell'Accademia"], ['Palace_Gardens']], 22
+[['Fontego_dei_Tedeschi'], ['Museo_Correr'], ["Torre_dell'orologio"], ['Palazzo_Ducale']], 22
+[['Fontego_dei_Tedeschi'], ["Torre_dell'orologio"], ['Museo_Correr']], 22
+[['Fontego_dei_Tedeschi'], ["Torre_dell'orologio"], ['Palazzo_Ducale'], ["Torre_dell'orologio"]], 22
+[['Fontego_dei_Tedeschi'], ['Palazzo_Ducale'], ["Ponte_dell'Accademia"]], 22
+[['Fontego_dei_Tedeschi'], ['Palazzo_Ducale'], ["Torre_dell'orologio"], ["Torre_dell'orologio"]], 22
+[["Torre_dell'orologio"], ['Chiesa_di_San_Giorgio_Maggiore']], 22
+[["Torre_dell'orologio"], ['Gaggio_Carta_Di_Girotto_Sas'], ["Torre_dell'orologio"]], 22
+[["Torre_dell'orologio"], ['Museo_Correr'], ['Palace_Gardens'], ['Palazzo_Ducale']], 22
+[["Torre_dell'orologio"], ["Torre_dell'orologio"], ["Torre_dell'orologio"], ['Palazzo_Ducale']], 22
+[["Torre_dell'orologio"], ['Palazzo_Ducale'], ['Palazzo_Ducale'], ['Campo_San_Zaccaria']], 22
+[["Torre_dell'orologio"], ['Palazzo_Ducale'], ['Palazzo_Ducale'], ['Palazzo_Ducale'], ["Torre_dell'orologio"]], 22
+[['Palazzo_Ducale'], ['Museo_del_Settecento_Veneziano']], 22
+[['Palazzo_Ducale'], ['Chiesa_di_San_Silvestro_I_Papa']], 22
+[['Palazzo_Ducale'], ['Campo_San_Polo']], 22
+[['Palazzo_Ducale'], ['Collezione_Peggy_Guggenheim'], ["Gallerie_dell'Accademia"]], 22
+[['Palazzo_Ducale'], ['Bauer_Palazzo'], ['Basilica_di_Santa_Maria_della_Salute']], 22
+[['Palazzo_Ducale'], ['Ponte_dei_Sospiri'], ['Fontego_dei_Tedeschi']], 22
+[['Palazzo_Ducale'], ['Basilica_di_Santa_Maria_della_Salute'], ['Basilica_di_Santa_Maria_della_Salute']], 22
+[['Palazzo_Ducale'], ["Gallerie_dell'Accademia"], ['Fontego_dei_Tedeschi']], 22
+[['Palazzo_Ducale'], ["Gallerie_dell'Accademia"], ['Palazzo_Ducale'], ['Palazzo_Ducale']], 22
+[['Palazzo_Ducale'], ['Fontego_dei_Tedeschi'], ['Fontego_dei_Tedeschi'], ['Palazzo_Ducale']], 22
+[['Palazzo_Ducale'], ['Museo_Correr'], ["Ponte_dell'Accademia"]], 22
+[['Palazzo_Ducale'], ['Museo_Correr'], ['Palazzo_Ducale'], ["Torre_dell'orologio"], ['Palazzo_Ducale']], 22
+[['Palazzo_Ducale'], ["Torre_dell'orologio"], ['Bauer_Palazzo']], 22
+[['Palazzo_Ducale'], ["Torre_dell'orologio"], ['Museo_Correr'], ['Palazzo_Ducale'], ['Palazzo_Ducale']], 22
+[['Palazzo_Ducale'], ["Torre_dell'orologio"], ['Palazzo_Ducale'], ['Palazzo_Santa_Maria_del_Giglio']], 22
+[['Palazzo_Ducale'], ["Torre_dell'orologio"], ['Palazzo_Ducale'], ['Campo_San_Zaccaria']], 22
+[['Palazzo_Ducale'], ["Torre_dell'orologio"], ['Palazzo_Ducale'], ["Ponte_dell'Accademia"]], 22
+[['Palazzo_Ducale'], ["Torre_dell'orologio"], ['Palazzo_Ducale'], ["Torre_dell'orologio"], ["Torre_dell'orologio"]], 22
+[['Palazzo_Ducale'], ["Torre_dell'orologio"], ['Palazzo_Ducale'], ['Palazzo_Ducale'], ['Palazzo_Ducale'], ['Palazzo_Ducale']], 22
+[['Palazzo_Ducale'], ['Palazzo_Ducale'], ['Chiesa_Santa_Maria_della_Fava']], 22
+[['Palazzo_Ducale'], ['Palazzo_Ducale'], ['Chiesa_di_San_Mois?']], 22
+[['Palazzo_Ducale'], ['Palazzo_Ducale'], ['Fontego_dei_Tedeschi'], ['Gaggio_Carta_Di_Girotto_Sas']], 22
+[['Palazzo_Ducale'], ['Palazzo_Ducale'], ['Palace_Gardens'], ['Palace_Gardens']], 22
+[['Palazzo_Ducale'], ['Palazzo_Ducale'], ['Palazzo_Ducale'], ['Fontego_dei_Tedeschi'], ['Palazzo_Ducale']], 22
+[['Palazzo_Ducale'], ['Palazzo_Ducale'], ['Palazzo_Ducale'], ["Torre_dell'orologio"], ["Torre_dell'orologio"]], 22
+[['Palazzo_Ducale'], ['Palazzo_Ducale'], ['Palazzo_Ducale'], ["Torre_dell'orologio"], ['Palazzo_Ducale'], ['Palazzo_Ducale']], 22
+[['Palazzo_Ducale'], ['Palazzo_Ducale'], ['Palazzo_Ducale'], ['Palazzo_Ducale'], ['Palace_Gardens']], 22
+[['Palazzo_Ducale'], ['Palazzo_Ducale'], ['Palazzo_Ducale'], ['Palazzo_Ducale'], ["Torre_dell'orologio"], ['Palazzo_Ducale']], 22
+[['Piazzale_Roma']], 21
+[['Campo_della_Maddalena'], ['Palazzo_Ducale']], 21
+[['Basilica_dei_Santi_Giovanni_e_Paolo'], ['Palazzo_Ducale']], 21
+[['Chiesa_San_Biagio'], ['Palazzo_Ducale']], 21
+[['Chiesa_di_San_Mois?'], ["Torre_dell'orologio"]], 21
+[['Galleria_Franchetti'], ["Torre_dell'orologio"], ['Palazzo_Ducale']], 21
+[["Opera_Santa_Maria_Della_Carita'"], ['Museo_Correr'], ['Palazzo_Ducale']], 21
+[['Chiesa_di_San_Giorgio_Maggiore'], ['Chiesa_di_San_Giorgio_Maggiore']], 21
+[['Chiesa_di_San_Giorgio_Maggiore'], ["Gallerie_dell'Accademia"]], 21
+[["Ponte_dell'Accademia"], ['Fontego_dei_Tedeschi']], 21
+[["Ponte_dell'Accademia"], ['Palace_Gardens']], 21
+[['Palazzo_Santa_Maria_del_Giglio'], ['Museo_Correr'], ['Palazzo_Ducale']], 21
+[['Campo_San_Zaccaria'], ['Monumento_Nazionale_a_Vittorio_Emanuele_II']], 21
+[['Campo_San_Zaccaria'], ['Fontego_dei_Tedeschi']], 21
+[['Ponte_dei_Sospiri'], ['Museo_Correr'], ['Palazzo_Ducale']], 21
+[['Bauer_Palazzo'], ["Ponte_dell'Accademia"]], 21
+[['Basilica_di_Santa_Maria_della_Salute'], ['Museo_Correr'], ['Palazzo_Ducale']], 21
+[['Basilica_di_Santa_Maria_della_Salute'], ['Palazzo_Ducale'], ['Basilica_di_Santa_Maria_della_Salute']], 21
+[['Palazzo_Foscari_Contarini'], ['Palazzo_Ducale'], ['Palace_Gardens']], 21
+[["Gallerie_dell'Accademia"], ["Opera_Santa_Maria_Della_Carita'"]], 21
+[["Gallerie_dell'Accademia"], ['Museo_Correr'], ["Torre_dell'orologio"]], 21
+[["Gallerie_dell'Accademia"], ['Museo_Correr'], ['Museo_Correr']], 21
+[["Gallerie_dell'Accademia"], ['Palace_Gardens'], ['Palace_Gardens']], 21
+[["Gallerie_dell'Accademia"], ['Palace_Gardens'], ['Museo_Correr']], 21
+[['Gaggio_Carta_Di_Girotto_Sas'], ['Fontego_dei_Tedeschi'], ["Torre_dell'orologio"]], 21
+[['Gaggio_Carta_Di_Girotto_Sas'], ["Torre_dell'orologio"], ["Torre_dell'orologio"]], 21
+[['Gaggio_Carta_Di_Girotto_Sas'], ['Palazzo_Ducale'], ['Museo_Correr']], 21
+[['Palace_Gardens'], ["Gallerie_dell'Accademia"], ["Torre_dell'orologio"]], 21
+[['Palace_Gardens'], ['Fontego_dei_Tedeschi'], ['Museo_Correr']], 21
+[['Palace_Gardens'], ['Palace_Gardens'], ["Torre_dell'orologio"]], 21
+[['Palace_Gardens'], ['Museo_Correr'], ['Fontego_dei_Tedeschi']], 21
+[['Palace_Gardens'], ['Museo_Correr'], ["Torre_dell'orologio"], ['Palazzo_Ducale']], 21
+[['Palace_Gardens'], ['Palazzo_Ducale'], ['Ponte_dei_Sospiri'], ['Palazzo_Ducale']], 21
+[['Palace_Gardens'], ['Palazzo_Ducale'], ['Palazzo_Ducale'], ['Palazzo_Ducale'], ['Palazzo_Ducale']], 21
+[['Museo_Correr'], ["Torre_dell'orologio"], ['Palazzo_Ducale'], ['Palace_Gardens']], 21
+[['Museo_Correr'], ['Palace_Gardens'], ['Palazzo_Ducale'], ["Torre_dell'orologio"]], 21
+[['Museo_Correr'], ['Palazzo_Ducale'], ["Ponte_dell'Accademia"]], 21
+[['Museo_Correr'], ['Palazzo_Ducale'], ['Palazzo_Foscari_Contarini']], 21
+[['Museo_Correr'], ['Palazzo_Ducale'], ['Collezione_Peggy_Guggenheim']], 21
+[['Museo_Correr'], ['Palazzo_Ducale'], ['Museo_Correr'], ["Torre_dell'orologio"]], 21
+[['Museo_Correr'], ['Palazzo_Ducale'], ['Palazzo_Ducale'], ['Palace_Gardens']], 21
+[['Fontego_dei_Tedeschi'], ['Campo_San_Provolo']], 21
+[['Fontego_dei_Tedeschi'], ["Ca'_Foscari_Zattere_-_Cultural_flow_zone"]], 21
+[['Fontego_dei_Tedeschi'], ['Campanile_e_Chiesa_degli_Santi_Apostoli']], 21
+[['Fontego_dei_Tedeschi'], ['Galleria_Franchetti'], ['Palazzo_Ducale']], 21
+[['Fontego_dei_Tedeschi'], ['Chiesa_di_San_Salvador'], ['Palazzo_Ducale']], 21
+[['Fontego_dei_Tedeschi'], ["Gallerie_dell'Accademia"], ["Torre_dell'orologio"]], 21
+[['Fontego_dei_Tedeschi'], ['Fontego_dei_Tedeschi'], ['Palazzo_Ducale'], ["Torre_dell'orologio"]], 21
+[['Fontego_dei_Tedeschi'], ['Museo_Correr'], ['Museo_Correr']], 21
+[['Fontego_dei_Tedeschi'], ["Torre_dell'orologio"], ['Palazzo_Ducale'], ['Palace_Gardens']], 21
+[['Fontego_dei_Tedeschi'], ['Palazzo_Ducale'], ['Monumento_Nazionale_a_Vittorio_Emanuele_II']], 21
+[['Fontego_dei_Tedeschi'], ['Palazzo_Ducale'], ['Basilica_di_Santa_Maria_della_Salute']], 21
+[['Fontego_dei_Tedeschi'], ['Palazzo_Ducale'], ['Palace_Gardens'], ['Palazzo_Ducale']], 21
+[["Torre_dell'orologio"], ['Chiesa_dei_Miracoli']], 21
+[["Torre_dell'orologio"], ['Bauer_Palazzo'], ['Palazzo_Ducale']], 21
+[["Torre_dell'orologio"], ['Monumento_Nazionale_a_Vittorio_Emanuele_II'], ['Palazzo_Ducale']], 21
+[["Torre_dell'orologio"], ['Palace_Gardens'], ['Palazzo_Ducale'], ["Torre_dell'orologio"]], 21
+[["Torre_dell'orologio"], ['Palace_Gardens'], ['Palazzo_Ducale'], ['Palace_Gardens']], 21
+[["Torre_dell'orologio"], ['Palazzo_Ducale'], ['Palazzo_Ducale'], ['Museo_Correr'], ['Palazzo_Ducale']], 21
+[['Palazzo_Ducale'], ['Chiesa_di_San_Marcuola']], 21
+[['Palazzo_Ducale'], ['Basilica_di_San_Marco']], 21
+[['Palazzo_Ducale'], ['Isola_di_San_Michelle']], 21
+[['Palazzo_Ducale'], ['Chiesa_di_San_Salvador'], ['Fontego_dei_Tedeschi']], 21
+[['Palazzo_Ducale'], ['Campo_San_Zaccaria'], ['Palace_Gardens']], 21
+[['Palazzo_Ducale'], ['Ponte_dei_Sospiri'], ['Palazzo_Ducale'], ["Torre_dell'orologio"]], 21
+[['Palazzo_Ducale'], ['Basilica_di_Santa_Maria_della_Salute'], ['Museo_Correr']], 21
+[['Palazzo_Ducale'], ['Fontego_dei_Tedeschi'], ['Campo_San_Zaccaria']], 21
+[['Palazzo_Ducale'], ['Museo_Correr'], ['Bauer_Palazzo']], 21
+[['Palazzo_Ducale'], ['Museo_Correr'], ['Museo_Correr'], ["Torre_dell'orologio"]], 21
+[['Palazzo_Ducale'], ['Museo_Correr'], ["Torre_dell'orologio"], ["Torre_dell'orologio"]], 21
+[['Palazzo_Ducale'], ['Museo_Correr'], ['Palazzo_Ducale'], ['Ponte_dei_Sospiri']], 21
+[['Palazzo_Ducale'], ['Museo_Correr'], ['Palazzo_Ducale'], ['Palazzo_Ducale'], ["Torre_dell'orologio"]], 21
+[['Palazzo_Ducale'], ['Palace_Gardens'], ['Collezione_Peggy_Guggenheim']], 21
+[['Palazzo_Ducale'], ["Torre_dell'orologio"], ["Opera_Santa_Maria_Della_Carita'"]], 21
+[['Palazzo_Ducale'], ["Torre_dell'orologio"], ['Palace_Gardens'], ["Torre_dell'orologio"]], 21
+[['Palazzo_Ducale'], ["Torre_dell'orologio"], ["Torre_dell'orologio"], ['Fontego_dei_Tedeschi']], 21
+[['Palazzo_Ducale'], ["Torre_dell'orologio"], ['Palazzo_Ducale'], ['Fontego_dei_Tedeschi'], ['Palazzo_Ducale']], 21
+[['Palazzo_Ducale'], ['Palazzo_Ducale'], ['Bauer_Palazzo'], ['Palazzo_Ducale']], 21
+[['Palazzo_Ducale'], ['Palazzo_Ducale'], ['Museo_Correr'], ["Torre_dell'orologio"], ['Palazzo_Ducale']], 21
+[['Palazzo_Ducale'], ['Palazzo_Ducale'], ['Fontego_dei_Tedeschi'], ['Museo_Correr']], 21
+[['Palazzo_Ducale'], ['Palazzo_Ducale'], ['Palace_Gardens'], ["Torre_dell'orologio"]], 21
+[['Palazzo_Mocenigo']], 20
+[['Palazzo_Contarini_del_Bovolo'], ["Torre_dell'orologio"]], 20
+[["Ca'_Pesaro_Galleria_Internazionale_d'Arte_Moderna"], ['Fontego_dei_Tedeschi']], 20
+[['Campo_Santo_Stefano'], ["Torre_dell'orologio"]], 20
+[["Ca'_Foscari_Zattere_-_Cultural_flow_zone"], ["Gallerie_dell'Accademia"]], 20
+[['Chiesa_di_San_Silvestro_I_Papa'], ["Torre_dell'orologio"]], 20
+[['Chiesa_Santa_Maria_della_Fava'], ['Palace_Gardens']], 20
+[['Galleria_Franchetti'], ['Palazzo_Ducale'], ["Torre_dell'orologio"]], 20
+[['Chiesa_di_San_Giorgio_Maggiore'], ['Palazzo_Ducale'], ['Palazzo_Ducale']], 20
+[['Palazzo_Santa_Maria_del_Giglio'], ['Palazzo_Santa_Maria_del_Giglio']], 20
+[['Palazzo_Santa_Maria_del_Giglio'], ['Palace_Gardens']], 20
+[['Monumento_Nazionale_a_Vittorio_Emanuele_II'], ['Ponte_dei_Sospiri'], ['Palazzo_Ducale']], 20
+[['Collezione_Peggy_Guggenheim'], ['Collezione_Peggy_Guggenheim']], 20
+[['Campo_San_Zaccaria'], ["Gallerie_dell'Accademia"]], 20
+[['Ponte_dei_Sospiri'], ['Palazzo_Ducale'], ['Ponte_dei_Sospiri']], 20
+[['Bauer_Palazzo'], ['Gaggio_Carta_Di_Girotto_Sas']], 20
+[['Basilica_di_Santa_Maria_della_Salute'], ['Ponte_dei_Sospiri']], 20
+[['Basilica_di_Santa_Maria_della_Salute'], ['Gaggio_Carta_Di_Girotto_Sas']], 20
+[['Basilica_di_Santa_Maria_della_Salute'], ['Palazzo_Ducale'], ["Gallerie_dell'Accademia"]], 20
+[['Palazzo_Foscari_Contarini'], ['Galleria_Franchetti']], 20
+[['Palazzo_Foscari_Contarini'], ['Basilica_di_Santa_Maria_della_Salute']], 20
+[['Palazzo_Foscari_Contarini'], ['Palazzo_Ducale'], ['Palazzo_Foscari_Contarini']], 20
+[["Gallerie_dell'Accademia"], ['Chiesa_di_San_Mois?']], 20
+[["Gallerie_dell'Accademia"], ['Bauer_Palazzo'], ['Palazzo_Ducale']], 20
+[["Gallerie_dell'Accademia"], ['Basilica_di_Santa_Maria_della_Salute'], ["Torre_dell'orologio"]], 20
+[["Gallerie_dell'Accademia"], ['Palazzo_Ducale'], ["Ponte_dell'Accademia"]], 20
+[['Gaggio_Carta_Di_Girotto_Sas'], ['Collezione_Peggy_Guggenheim']], 20
+[['Gaggio_Carta_Di_Girotto_Sas'], ['Monumento_Nazionale_a_Vittorio_Emanuele_II']], 20
+[['Gaggio_Carta_Di_Girotto_Sas'], ['Basilica_di_Santa_Maria_della_Salute'], ['Palazzo_Ducale']], 20
+[['Gaggio_Carta_Di_Girotto_Sas'], ['Palace_Gardens'], ['Palazzo_Ducale']], 20
+[['Gaggio_Carta_Di_Girotto_Sas'], ['Museo_Correr'], ['Palace_Gardens']], 20
+[['Palace_Gardens'], ['Chiesa_di_San_Salvador']], 20
+[['Palace_Gardens'], ['Ponte_dei_Sospiri'], ['Palace_Gardens']], 20
+[['Palace_Gardens'], ["Gallerie_dell'Accademia"], ['Palace_Gardens']], 20
+[['Palace_Gardens'], ['Palace_Gardens'], ["Gallerie_dell'Accademia"]], 20
+[['Palace_Gardens'], ['Palace_Gardens'], ['Fontego_dei_Tedeschi']], 20
+[['Palace_Gardens'], ['Palace_Gardens'], ['Palazzo_Ducale'], ['Palazzo_Ducale']], 20
+[['Palace_Gardens'], ["Torre_dell'orologio"], ["Torre_dell'orologio"]], 20
+[['Palace_Gardens'], ["Torre_dell'orologio"], ['Palazzo_Ducale'], ['Palazzo_Ducale']], 20
+[['Palace_Gardens'], ['Palazzo_Ducale'], ['Monumento_Nazionale_a_Vittorio_Emanuele_II']], 20
+[['Palace_Gardens'], ['Palazzo_Ducale'], ['Palace_Gardens'], ['Palace_Gardens']], 20
+[['Palace_Gardens'], ['Palazzo_Ducale'], ['Palazzo_Ducale'], ['Museo_Correr']], 20
+[['Palace_Gardens'], ['Palazzo_Ducale'], ['Palazzo_Ducale'], ["Torre_dell'orologio"], ['Palazzo_Ducale']], 20
+[['Museo_Correr'], ['Campo_San_Provolo']], 20
+[['Museo_Correr'], ['Arsenale_di_Venezia']], 20
+[['Museo_Correr'], ['Campo_San_Zaccaria'], ['Palazzo_Ducale']], 20
+[['Museo_Correr'], ['Basilica_di_Santa_Maria_della_Salute'], ['Palazzo_Ducale']], 20
+[['Museo_Correr'], ["Torre_dell'orologio"], ['Museo_Correr'], ['Palazzo_Ducale']], 20
+[['Museo_Correr'], ['Palazzo_Ducale'], ['Palazzo_Santa_Maria_del_Giglio']], 20
+[['Museo_Correr'], ['Palazzo_Ducale'], ['Fontego_dei_Tedeschi'], ['Palazzo_Ducale']], 20
+[['Museo_Correr'], ['Palazzo_Ducale'], ["Torre_dell'orologio"], ["Torre_dell'orologio"]], 20
+[['Museo_Correr'], ['Palazzo_Ducale'], ['Palazzo_Ducale'], ['Palazzo_Ducale'], ['Palazzo_Ducale']], 20
+[['Fontego_dei_Tedeschi'], ['Palace_Gardens'], ['Museo_Correr']], 20
+[['Fontego_dei_Tedeschi'], ['Fontego_dei_Tedeschi'], ['Museo_Correr']], 20
+[['Fontego_dei_Tedeschi'], ['Fontego_dei_Tedeschi'], ["Torre_dell'orologio"], ['Palazzo_Ducale']], 20
+[['Fontego_dei_Tedeschi'], ['Gaggio_Carta_Di_Girotto_Sas'], ['Museo_Correr']], 20
+[['Fontego_dei_Tedeschi'], ['Gaggio_Carta_Di_Girotto_Sas'], ['Palazzo_Ducale'], ["Torre_dell'orologio"]], 20
+[['Fontego_dei_Tedeschi'], ["Torre_dell'orologio"], ['Campo_San_Zaccaria']], 20
+[['Fontego_dei_Tedeschi'], ["Torre_dell'orologio"], ["Gallerie_dell'Accademia"]], 20
+[['Fontego_dei_Tedeschi'], ["Torre_dell'orologio"], ["Torre_dell'orologio"], ['Palazzo_Ducale']], 20
+[['Fontego_dei_Tedeschi'], ['Palazzo_Ducale'], ['Gaggio_Carta_Di_Girotto_Sas']], 20
+[['Fontego_dei_Tedeschi'], ['Palazzo_Ducale'], ['Palazzo_Ducale'], ['Palace_Gardens']], 20
+[["Torre_dell'orologio"], ['Fontego_dei_Tedeschi'], ['Palazzo_Ducale'], ["Torre_dell'orologio"]], 20
+[["Torre_dell'orologio"], ['Museo_Correr'], ['Palazzo_Santa_Maria_del_Giglio']], 20
+[["Torre_dell'orologio"], ['Museo_Correr'], ['Palazzo_Ducale'], ["Torre_dell'orologio"], ['Palazzo_Ducale']], 20
+[["Torre_dell'orologio"], ['Palazzo_Ducale'], ['Chiesa_Santa_Maria_della_Fava']], 20
+[["Torre_dell'orologio"], ['Palazzo_Ducale'], ['Galleria_Franchetti']], 20
+[["Torre_dell'orologio"], ['Palazzo_Ducale'], ["Gallerie_dell'Accademia"], ['Palazzo_Ducale']], 20
+[["Torre_dell'orologio"], ['Palazzo_Ducale'], ['Gaggio_Carta_Di_Girotto_Sas'], ['Palazzo_Ducale']], 20
+[["Torre_dell'orologio"], ['Palazzo_Ducale'], ['Fontego_dei_Tedeschi'], ["Torre_dell'orologio"]], 20
+[["Torre_dell'orologio"], ['Palazzo_Ducale'], ['Palace_Gardens'], ["Torre_dell'orologio"]], 20
+[["Torre_dell'orologio"], ['Palazzo_Ducale'], ['Palace_Gardens'], ['Palazzo_Ducale'], ['Palazzo_Ducale']], 20
+[["Torre_dell'orologio"], ['Palazzo_Ducale'], ["Torre_dell'orologio"], ["Torre_dell'orologio"], ['Palazzo_Ducale']], 20
+[["Torre_dell'orologio"], ['Palazzo_Ducale'], ['Palazzo_Ducale'], ['Fontego_dei_Tedeschi']], 20
+[['Palazzo_Ducale'], ['Punta_della_Dogana_di_Mare'], ['Palazzo_Ducale']], 20
+[['Palazzo_Ducale'], ['Chiesa_Santa_Maria_della_Fava'], ['Palazzo_Ducale']], 20
+[['Palazzo_Ducale'], ["Opera_Santa_Maria_Della_Carita'"], ['Palazzo_Ducale']], 20
+[['Palazzo_Ducale'], ['Monumento_Nazionale_a_Vittorio_Emanuele_II'], ["Torre_dell'orologio"]], 20
+[['Palazzo_Ducale'], ['Campo_San_Zaccaria'], ['Palazzo_Ducale'], ['Palazzo_Ducale']], 20
+[['Palazzo_Ducale'], ['Ponte_dei_Sospiri'], ['Monumento_Nazionale_a_Vittorio_Emanuele_II']], 20
+[['Palazzo_Ducale'], ['Ponte_dei_Sospiri'], ['Museo_Correr']], 20
+[['Palazzo_Ducale'], ['Ponte_dei_Sospiri'], ['Palazzo_Ducale'], ['Palace_Gardens']], 20
+[['Palazzo_Ducale'], ['Gaggio_Carta_Di_Girotto_Sas'], ['Palace_Gardens']], 20
+[['Palazzo_Ducale'], ['Basilica_di_Santa_Maria_della_Salute'], ["Torre_dell'orologio"]], 20
+[['Palazzo_Ducale'], ["Gallerie_dell'Accademia"], ["Gallerie_dell'Accademia"]], 20
+[['Palazzo_Ducale'], ["Gallerie_dell'Accademia"], ['Museo_Correr']], 20
+[['Palazzo_Ducale'], ['Fontego_dei_Tedeschi'], ['Museo_Correr'], ['Palazzo_Ducale']], 20
+[['Palazzo_Ducale'], ['Fontego_dei_Tedeschi'], ['Gaggio_Carta_Di_Girotto_Sas'], ['Palazzo_Ducale']], 20
+[['Palazzo_Ducale'], ['Fontego_dei_Tedeschi'], ['Palazzo_Ducale'], ['Palace_Gardens']], 20
+[['Palazzo_Ducale'], ['Fontego_dei_Tedeschi'], ['Palazzo_Ducale'], ['Palazzo_Ducale'], ['Palazzo_Ducale']], 20
+[['Palazzo_Ducale'], ['Museo_Correr'], ['Ponte_dei_Sospiri'], ['Palazzo_Ducale']], 20
+[['Palazzo_Ducale'], ['Museo_Correr'], ['Palace_Gardens'], ['Museo_Correr']], 20
+[['Palazzo_Ducale'], ['Museo_Correr'], ['Palace_Gardens'], ['Palace_Gardens']], 20
+[['Palazzo_Ducale'], ['Museo_Correr'], ['Palazzo_Ducale'], ['Campo_San_Zaccaria']], 20
+[['Palazzo_Ducale'], ['Palace_Gardens'], ['Palazzo_Ducale'], ['Fontego_dei_Tedeschi']], 20
+[['Palazzo_Ducale'], ['Palace_Gardens'], ['Palazzo_Ducale'], ['Ponte_dei_Sospiri']], 20
+[['Palazzo_Ducale'], ["Torre_dell'orologio"], ['Monumento_Nazionale_a_Vittorio_Emanuele_II']], 20
+[['Palazzo_Ducale'], ["Torre_dell'orologio"], ['Museo_Correr'], ['Palace_Gardens']], 20
+[['Palazzo_Ducale'], ["Torre_dell'orologio"], ['Museo_Correr'], ["Torre_dell'orologio"], ['Palazzo_Ducale']], 20
+[['Palazzo_Ducale'], ["Torre_dell'orologio"], ['Museo_Correr'], ['Palazzo_Ducale'], ["Torre_dell'orologio"]], 20
+[['Palazzo_Ducale'], ["Torre_dell'orologio"], ["Torre_dell'orologio"], ['Palazzo_Ducale'], ["Torre_dell'orologio"]], 20
+[['Palazzo_Ducale'], ["Torre_dell'orologio"], ["Torre_dell'orologio"], ['Palazzo_Ducale'], ['Palazzo_Ducale']], 20
+[['Palazzo_Ducale'], ["Torre_dell'orologio"], ['Palazzo_Ducale'], ["Gallerie_dell'Accademia"]], 20
+[['Palazzo_Ducale'], ["Torre_dell'orologio"], ['Palazzo_Ducale'], ['Palace_Gardens'], ['Palazzo_Ducale']], 20
+[['Palazzo_Ducale'], ["Torre_dell'orologio"], ['Palazzo_Ducale'], ['Palazzo_Ducale'], ["Torre_dell'orologio"], ['Palazzo_Ducale']], 20
+[['Palazzo_Ducale'], ['Palazzo_Ducale'], ['Chiesa_di_San_Salvador'], ['Palazzo_Ducale']], 20
+[['Palazzo_Ducale'], ['Palazzo_Ducale'], ['Campo_San_Zaccaria'], ['Palazzo_Ducale']], 20
+[['Palazzo_Ducale'], ['Palazzo_Ducale'], ['Ponte_dei_Sospiri'], ['Palace_Gardens']], 20
+[['Palazzo_Ducale'], ['Palazzo_Ducale'], ["Gallerie_dell'Accademia"], ["Torre_dell'orologio"]], 20
+[['Palazzo_Ducale'], ['Palazzo_Ducale'], ['Museo_Correr'], ['Palazzo_Ducale'], ["Torre_dell'orologio"]], 20
+[['Palazzo_Ducale'], ['Palazzo_Ducale'], ['Museo_Correr'], ['Palazzo_Ducale'], ['Palace_Gardens']], 20
+[['Palazzo_Ducale'], ['Palazzo_Ducale'], ["Torre_dell'orologio"], ['Gaggio_Carta_Di_Girotto_Sas']], 20
+[['Palazzo_Ducale'], ['Palazzo_Ducale'], ["Torre_dell'orologio"], ["Torre_dell'orologio"], ['Palazzo_Ducale']], 20
+[['Palazzo_Ducale'], ['Palazzo_Ducale'], ["Torre_dell'orologio"], ['Palazzo_Ducale'], ['Palazzo_Ducale'], ['Palazzo_Ducale']], 20
+[['Palazzo_Ducale'], ['Palazzo_Ducale'], ['Palazzo_Ducale'], ['Monumento_Nazionale_a_Vittorio_Emanuele_II']], 20
+[['Palazzo_Ducale'], ['Palazzo_Ducale'], ['Palazzo_Ducale'], ['Fontego_dei_Tedeschi'], ["Torre_dell'orologio"]], 20
+[['Palazzo_Ducale'], ['Palazzo_Ducale'], ['Palazzo_Ducale'], ['Palazzo_Ducale'], ['Palazzo_Ducale'], ["Torre_dell'orologio"]], 20
+[['Campo_Santa_Margherita']], 19
+[["Ca'_Foscari"], ["Gallerie_dell'Accademia"]], 19
+[['Santa_Maria_del_Rosario'], ['Palazzo_Ducale']], 19
+[['Campo_Santo_Stefano'], ["Ponte_dell'Accademia"]], 19
+[['Galleria_Dorothea_Van_Der_Koelen'], ['Palazzo_Ducale']], 19
+[['Galleria_Dorothea_Van_Der_Koelen'], ['Museo_Correr']], 19
+[['Campo_San_Geremia'], ["Torre_dell'orologio"]], 19
+[["Ca'_Foscari_Zattere_-_Cultural_flow_zone"], ['Palace_Gardens']], 19
+[['Chiesa_di_San_Silvestro_I_Papa'], ['Fontego_dei_Tedeschi']], 19
+[['Ponte_della_Costituzione'], ['Museo_Correr']], 19
+[['Punta_della_Dogana_di_Mare'], ['Collezione_Peggy_Guggenheim']], 19
+[['Galleria_Franchetti'], ['Museo_Correr'], ['Palazzo_Ducale']], 19
+[['Chiesa_di_San_Salvador'], ["Torre_dell'orologio"], ['Palazzo_Ducale']], 19
+[['Chiesa_di_San_Giorgio_Maggiore'], ['Basilica_di_Santa_Maria_della_Salute']], 19
+[['Palazzo_Santa_Maria_del_Giglio'], ['Collezione_Peggy_Guggenheim']], 19
+[['Palazzo_Santa_Maria_del_Giglio'], ['Chiesa_di_San_Mois?']], 19
+[['Palazzo_Santa_Maria_del_Giglio'], ['Campo_San_Zaccaria']], 19
+[['Palazzo_Santa_Maria_del_Giglio'], ["Torre_dell'orologio"], ['Palazzo_Ducale']], 19
+[['Monumento_Nazionale_a_Vittorio_Emanuele_II'], ['Campo_San_Zaccaria']], 19
+[['Monumento_Nazionale_a_Vittorio_Emanuele_II'], ['Palazzo_Ducale'], ['Basilica_di_Santa_Maria_della_Salute']], 19
+[['Monumento_Nazionale_a_Vittorio_Emanuele_II'], ['Palazzo_Ducale'], ["Torre_dell'orologio"], ['Palazzo_Ducale']], 19
+[['Monumento_Nazionale_a_Vittorio_Emanuele_II'], ['Palazzo_Ducale'], ['Museo_Correr'], ['Palazzo_Ducale']], 19
+[['Collezione_Peggy_Guggenheim'], ['Punta_della_Dogana_di_Mare']], 19
+[['Campo_San_Zaccaria'], ['Basilica_di_Santa_Maria_della_Salute']], 19
+[['Campo_San_Zaccaria'], ['Palazzo_Ducale'], ['Campo_San_Zaccaria']], 19
+[['Campo_San_Zaccaria'], ['Palazzo_Ducale'], ['Palace_Gardens']], 19
+[['Campo_San_Zaccaria'], ['Palazzo_Ducale'], ["Torre_dell'orologio"], ['Palazzo_Ducale']], 19
+[['Ponte_dei_Sospiri'], ['Palazzo_Ducale'], ["Torre_dell'orologio"], ["Torre_dell'orologio"]], 19
+[['Isola_di_San_Michelle'], ["Torre_dell'orologio"]], 19
+[['Isola_di_San_Michelle'], ['Gaggio_Carta_Di_Girotto_Sas']], 19
+[['Bauer_Palazzo'], ["Opera_Santa_Maria_Della_Carita'"]], 19
+[['Basilica_di_Santa_Maria_della_Salute'], ["Torre_dell'orologio"], ['Palazzo_Ducale']], 19
+[['Palazzo_Foscari_Contarini'], ['Campo_San_Geremia']], 19
+[['Palazzo_Foscari_Contarini'], ["Gallerie_dell'Accademia"], ['Palazzo_Ducale']], 19
+[['Palazzo_Foscari_Contarini'], ['Palace_Gardens'], ['Palazzo_Ducale']], 19
+[["Gallerie_dell'Accademia"], ['Ponte_dei_Sospiri'], ['Palazzo_Ducale']], 19
+[["Gallerie_dell'Accademia"], ['Basilica_di_Santa_Maria_della_Salute'], ['Museo_Correr']], 19
+[["Gallerie_dell'Accademia"], ['Museo_Correr'], ['Palace_Gardens']], 19
+[["Gallerie_dell'Accademia"], ["Gallerie_dell'Accademia"], ["Gallerie_dell'Accademia"]], 19
+[["Gallerie_dell'Accademia"], ["Torre_dell'orologio"], ['Palace_Gardens']], 19
+[["Gallerie_dell'Accademia"], ['Palace_Gardens'], ['Palazzo_Ducale'], ["Torre_dell'orologio"]], 19
+[["Gallerie_dell'Accademia"], ['Palazzo_Ducale'], ['Gaggio_Carta_Di_Girotto_Sas']], 19
+[['Gaggio_Carta_Di_Girotto_Sas'], ['Chiesa_di_San_Silvestro_I_Papa']], 19
+[['Gaggio_Carta_Di_Girotto_Sas'], ['Chiesa_di_San_Salvador']], 19
+[['Gaggio_Carta_Di_Girotto_Sas'], ["Ponte_dell'Accademia"]], 19
+[['Gaggio_Carta_Di_Girotto_Sas'], ["Gallerie_dell'Accademia"], ['Palazzo_Ducale']], 19
+[['Gaggio_Carta_Di_Girotto_Sas'], ['Museo_Correr'], ["Torre_dell'orologio"]], 19
+[['Gaggio_Carta_Di_Girotto_Sas'], ['Gaggio_Carta_Di_Girotto_Sas'], ['Palazzo_Ducale']], 19
+[['Gaggio_Carta_Di_Girotto_Sas'], ['Palazzo_Ducale'], ['Fontego_dei_Tedeschi']], 19
+[['Palace_Gardens'], ['Punta_della_Dogana_di_Mare']], 19
+[['Palace_Gardens'], ['Fontego_dei_Tedeschi'], ['Gaggio_Carta_Di_Girotto_Sas']], 19
+[['Palace_Gardens'], ['Fontego_dei_Tedeschi'], ['Palace_Gardens']], 19
+[['Palace_Gardens'], ["Torre_dell'orologio"], ['Museo_Correr']], 19
+[['Palace_Gardens'], ["Torre_dell'orologio"], ['Fontego_dei_Tedeschi']], 19
+[['Palace_Gardens'], ["Torre_dell'orologio"], ['Palazzo_Ducale'], ['Palace_Gardens']], 19
+[['Palace_Gardens'], ['Museo_Correr'], ['Palazzo_Ducale'], ["Torre_dell'orologio"]], 19
+[['Palace_Gardens'], ['Museo_Correr'], ['Palazzo_Ducale'], ['Palace_Gardens']], 19
+[['Palace_Gardens'], ['Palazzo_Ducale'], ['Bauer_Palazzo']], 19
+[['Palace_Gardens'], ['Palazzo_Ducale'], ["Ponte_dell'Accademia"]], 19
+[['Palace_Gardens'], ['Palazzo_Ducale'], ['Museo_Correr'], ["Torre_dell'orologio"]], 19
+[['Palace_Gardens'], ['Palazzo_Ducale'], ['Museo_Correr'], ['Palace_Gardens']], 19
+[['Palace_Gardens'], ['Palazzo_Ducale'], ['Museo_Correr'], ['Palazzo_Ducale'], ['Palazzo_Ducale']], 19
+[['Palace_Gardens'], ['Palazzo_Ducale'], ['Palazzo_Ducale'], ["Gallerie_dell'Accademia"]], 19
+[['Museo_Correr'], ['Gaggio_Carta_Di_Girotto_Sas'], ['Palazzo_Ducale']], 19
+[['Museo_Correr'], ["Torre_dell'orologio"], ['Gaggio_Carta_Di_Girotto_Sas']], 19
+[['Museo_Correr'], ["Torre_dell'orologio"], ["Torre_dell'orologio"], ['Palazzo_Ducale']], 19
+[['Museo_Correr'], ['Palace_Gardens'], ['Monumento_Nazionale_a_Vittorio_Emanuele_II']], 19
+[['Museo_Correr'], ['Palazzo_Ducale'], ["Opera_Santa_Maria_Della_Carita'"]], 19
+[['Museo_Correr'], ['Palazzo_Ducale'], ['Ponte_dei_Sospiri'], ['Palazzo_Ducale']], 19
+[['Museo_Correr'], ['Palazzo_Ducale'], ['Museo_Correr'], ['Palazzo_Ducale'], ['Palazzo_Ducale']], 19
+[['Museo_Correr'], ['Palazzo_Ducale'], ["Torre_dell'orologio"], ['Palace_Gardens']], 19
+[['Museo_Correr'], ['Palazzo_Ducale'], ["Torre_dell'orologio"], ['Museo_Correr']], 19
+[['Fontego_dei_Tedeschi'], ['Palazzo_Contarini_del_Bovolo']], 19
+[['Fontego_dei_Tedeschi'], ['Campo_San_Polo']], 19
+[['Fontego_dei_Tedeschi'], ['Monumento_Nazionale_a_Vittorio_Emanuele_II'], ['Palazzo_Ducale']], 19
+[['Fontego_dei_Tedeschi'], ['Palace_Gardens'], ["Torre_dell'orologio"]], 19
+[['Fontego_dei_Tedeschi'], ['Palace_Gardens'], ['Palazzo_Ducale'], ['Palazzo_Ducale']], 19
+[['Fontego_dei_Tedeschi'], ['Museo_Correr'], ['Palazzo_Ducale'], ['Palazzo_Ducale']], 19
+[['Fontego_dei_Tedeschi'], ['Gaggio_Carta_Di_Girotto_Sas'], ['Bauer_Palazzo']], 19
+[['Fontego_dei_Tedeschi'], ['Gaggio_Carta_Di_Girotto_Sas'], ['Palazzo_Ducale'], ['Palazzo_Ducale']], 19
+[['Fontego_dei_Tedeschi'], ["Torre_dell'orologio"], ['Gaggio_Carta_Di_Girotto_Sas']], 19
+[['Fontego_dei_Tedeschi'], ['Palazzo_Ducale'], ['Bauer_Palazzo']], 19
+[['Fontego_dei_Tedeschi'], ['Palazzo_Ducale'], ['Ponte_dei_Sospiri'], ['Palazzo_Ducale']], 19
+[['Fontego_dei_Tedeschi'], ['Palazzo_Ducale'], ["Torre_dell'orologio"], ['Palazzo_Ducale'], ['Palazzo_Ducale']], 19
+[["Torre_dell'orologio"], ['Chiesa_di_Santa_Maria_Gloriosa_dei_Frari']], 19
+[["Torre_dell'orologio"], ['Isola_di_San_Michelle']], 19
+[["Torre_dell'orologio"], ['Ponte_della_Costituzione']], 19
+[["Torre_dell'orologio"], ['Ponte_dei_Sospiri'], ['Palazzo_Ducale'], ['Palazzo_Ducale']], 19
+[["Torre_dell'orologio"], ['Fontego_dei_Tedeschi'], ['Fontego_dei_Tedeschi']], 19
+[["Torre_dell'orologio"], ['Fontego_dei_Tedeschi'], ['Museo_Correr']], 19
+[["Torre_dell'orologio"], ['Fontego_dei_Tedeschi'], ['Palace_Gardens']], 19
+[["Torre_dell'orologio"], ['Palace_Gardens'], ['Museo_Correr'], ['Palazzo_Ducale']], 19
+[["Torre_dell'orologio"], ['Museo_Correr'], ['Ponte_dei_Sospiri']], 19
+[["Torre_dell'orologio"], ['Museo_Correr'], ['Museo_Correr'], ['Palazzo_Ducale']], 19
+[["Torre_dell'orologio"], ["Torre_dell'orologio"], ['Palazzo_Ducale'], ['Palazzo_Ducale'], ['Palazzo_Ducale']], 19
+[["Torre_dell'orologio"], ["Torre_dell'orologio"], ['Palazzo_Ducale'], ["Torre_dell'orologio"], ['Palazzo_Ducale']], 19
+[["Torre_dell'orologio"], ['Palazzo_Ducale'], ['Collezione_Peggy_Guggenheim']], 19
+[["Torre_dell'orologio"], ['Palazzo_Ducale'], ['Chiesa_di_San_Salvador']], 19
+[["Torre_dell'orologio"], ['Palazzo_Ducale'], ['Basilica_di_Santa_Maria_della_Salute'], ['Palazzo_Ducale']], 19
+[["Torre_dell'orologio"], ['Palazzo_Ducale'], ['Monumento_Nazionale_a_Vittorio_Emanuele_II'], ['Palazzo_Ducale']], 19
+[["Torre_dell'orologio"], ['Palazzo_Ducale'], ['Campo_San_Zaccaria'], ['Palazzo_Ducale']], 19
+[["Torre_dell'orologio"], ['Palazzo_Ducale'], ['Museo_Correr'], ["Torre_dell'orologio"]], 19
+[["Torre_dell'orologio"], ['Palazzo_Ducale'], ['Fontego_dei_Tedeschi'], ['Gaggio_Carta_Di_Girotto_Sas']], 19
+[["Torre_dell'orologio"], ['Palazzo_Ducale'], ['Palace_Gardens'], ['Museo_Correr']], 19
+[["Torre_dell'orologio"], ['Palazzo_Ducale'], ['Palace_Gardens'], ['Palace_Gardens']], 19
+[["Torre_dell'orologio"], ['Palazzo_Ducale'], ["Torre_dell'orologio"], ['Palace_Gardens']], 19
+[["Torre_dell'orologio"], ['Palazzo_Ducale'], ["Torre_dell'orologio"], ['Fontego_dei_Tedeschi']], 19
+[["Torre_dell'orologio"], ['Palazzo_Ducale'], ["Torre_dell'orologio"], ['Palazzo_Ducale'], ['Palazzo_Ducale'], ['Palazzo_Ducale']], 19
+[["Torre_dell'orologio"], ['Palazzo_Ducale'], ['Palazzo_Ducale'], ['Palazzo_Ducale'], ["Torre_dell'orologio"], ['Palazzo_Ducale']], 19
+[['Palazzo_Ducale'], ["Ca'_Foscari"]], 19
+[['Palazzo_Ducale'], ['Magazzini_del_Sale']], 19
+[['Palazzo_Ducale'], ['Campo_San_Tom?']], 19
+[['Palazzo_Ducale'], ['Chiesa_di_San_Mois?'], ['Palazzo_Ducale']], 19
+[['Palazzo_Ducale'], ['Chiesa_Santa_Maria_della_Fava'], ['Fontego_dei_Tedeschi']], 19
+[['Palazzo_Ducale'], ['Palazzo_Santa_Maria_del_Giglio'], ["Gallerie_dell'Accademia"]], 19
+[['Palazzo_Ducale'], ['Collezione_Peggy_Guggenheim'], ['Basilica_di_Santa_Maria_della_Salute']], 19
+[['Palazzo_Ducale'], ['Bauer_Palazzo'], ["Gallerie_dell'Accademia"]], 19
+[['Palazzo_Ducale'], ['Bauer_Palazzo'], ['Palace_Gardens']], 19
+[['Palazzo_Ducale'], ['Basilica_di_Santa_Maria_della_Salute'], ['Punta_della_Dogana_di_Mare']], 19
+[['Palazzo_Ducale'], ['Basilica_di_Santa_Maria_della_Salute'], ['Palazzo_Ducale'], ['Palazzo_Ducale']], 19
+[['Palazzo_Ducale'], ["Gallerie_dell'Accademia"], ['Bauer_Palazzo']], 19
+[['Palazzo_Ducale'], ['Fontego_dei_Tedeschi'], ['Palace_Gardens'], ['Palazzo_Ducale']], 19
+[['Palazzo_Ducale'], ['Fontego_dei_Tedeschi'], ['Palazzo_Ducale'], ["Torre_dell'orologio"], ['Palazzo_Ducale']], 19
+[['Palazzo_Ducale'], ['Museo_Correr'], ['Monumento_Nazionale_a_Vittorio_Emanuele_II']], 19
+[['Palazzo_Ducale'], ['Museo_Correr'], ['Fontego_dei_Tedeschi'], ["Torre_dell'orologio"]], 19
+[['Palazzo_Ducale'], ['Museo_Correr'], ['Fontego_dei_Tedeschi'], ['Museo_Correr']], 19
+[['Palazzo_Ducale'], ['Museo_Correr'], ["Torre_dell'orologio"], ['Museo_Correr']], 19
+[['Palazzo_Ducale'], ['Palace_Gardens'], ["Opera_Santa_Maria_Della_Carita'"]], 19
+[['Palazzo_Ducale'], ['Palace_Gardens'], ['Palazzo_Foscari_Contarini']], 19
+[['Palazzo_Ducale'], ['Palace_Gardens'], ['Palazzo_Ducale'], ['Basilica_di_Santa_Maria_della_Salute']], 19
+[['Palazzo_Ducale'], ['Palace_Gardens'], ['Palazzo_Ducale'], ['Palazzo_Ducale'], ["Torre_dell'orologio"]], 19
+[['Palazzo_Ducale'], ["Torre_dell'orologio"], ['Chiesa_Santa_Maria_della_Fava']], 19
+[['Palazzo_Ducale'], ["Torre_dell'orologio"], ['Gaggio_Carta_Di_Girotto_Sas'], ['Palazzo_Ducale']], 19
+[['Palazzo_Ducale'], ["Torre_dell'orologio"], ['Fontego_dei_Tedeschi'], ['Palazzo_Ducale'], ['Palazzo_Ducale']], 19
+[['Palazzo_Ducale'], ["Torre_dell'orologio"], ['Palazzo_Ducale'], ['Bauer_Palazzo']], 19
+[['Palazzo_Ducale'], ["Torre_dell'orologio"], ['Palazzo_Ducale'], ['Basilica_di_Santa_Maria_della_Salute']], 19
+[['Palazzo_Ducale'], ["Torre_dell'orologio"], ['Palazzo_Ducale'], ['Ponte_dei_Sospiri'], ['Palazzo_Ducale']], 19
+[['Palazzo_Ducale'], ["Torre_dell'orologio"], ['Palazzo_Ducale'], ['Palazzo_Ducale'], ['Ponte_dei_Sospiri']], 19
+[['Palazzo_Ducale'], ["Torre_dell'orologio"], ['Palazzo_Ducale'], ['Palazzo_Ducale'], ['Palazzo_Ducale'], ['Palazzo_Ducale'], ['Palazzo_Ducale']], 19
+[['Palazzo_Ducale'], ['Palazzo_Ducale'], ['Monumento_Nazionale_a_Vittorio_Emanuele_II'], ['Palazzo_Ducale']], 19
+[['Palazzo_Ducale'], ['Palazzo_Ducale'], ['Palazzo_Santa_Maria_del_Giglio'], ['Palazzo_Ducale']], 19
+[['Palazzo_Ducale'], ['Palazzo_Ducale'], ['Museo_Correr'], ['Museo_Correr'], ['Palazzo_Ducale']], 19
+[['Palazzo_Ducale'], ['Palazzo_Ducale'], ['Fontego_dei_Tedeschi'], ['Fontego_dei_Tedeschi']], 19
+[['Palazzo_Ducale'], ['Palazzo_Ducale'], ['Fontego_dei_Tedeschi'], ['Palazzo_Ducale'], ["Torre_dell'orologio"]], 19
+[['Palazzo_Ducale'], ['Palazzo_Ducale'], ['Palace_Gardens'], ['Fontego_dei_Tedeschi']], 19
+[['Palazzo_Ducale'], ['Palazzo_Ducale'], ['Palace_Gardens'], ['Museo_Correr']], 19
+[['Palazzo_Ducale'], ['Palazzo_Ducale'], ["Torre_dell'orologio"], ['Fontego_dei_Tedeschi'], ['Palazzo_Ducale']], 19
+[['Palazzo_Ducale'], ['Palazzo_Ducale'], ['Palazzo_Ducale'], ['Bauer_Palazzo']], 19
+[['Palazzo_Ducale'], ['Palazzo_Ducale'], ['Palazzo_Ducale'], ['Campo_San_Zaccaria']], 19
+[['Palazzo_Ducale'], ['Palazzo_Ducale'], ['Palazzo_Ducale'], ["Ponte_dell'Accademia"]], 19
+[['Chiesa_di_Santo_Stefano']], 18
+[['Basilica_di_San_Marco'], ['Palazzo_Ducale']], 18
+[['Magazzini_del_Sale'], ['Palazzo_Ducale']], 18
+[['Chiesa_di_San_Nicola_da_Tolentino'], ['Palazzo_Ducale']], 18
+[['Ponte_di_Rialto'], ["Torre_dell'orologio"]], 18
+[["Ca'_Foscari"], ["Torre_dell'orologio"]], 18
+[['Campo_San_Polo'], ['Palazzo_Ducale']], 18
+[['Museo_del_Settecento_Veneziano'], ['Fontego_dei_Tedeschi']], 18
+[["Ca'_Pesaro_Galleria_Internazionale_d'Arte_Moderna"], ['Gaggio_Carta_Di_Girotto_Sas']], 18
+[["Ca'_Pesaro_Galleria_Internazionale_d'Arte_Moderna"], ["Gallerie_dell'Accademia"]], 18
+[['Chiesa_di_San_Mois?'], ['Museo_Correr'], ['Palazzo_Ducale']], 18
+[['Chiesa_di_San_Barnaba'], ["Torre_dell'orologio"]], 18
+[['Punta_della_Dogana_di_Mare'], ['Palace_Gardens']], 18
+[['Galleria_Franchetti'], ['Palazzo_Ducale'], ['Palazzo_Ducale']], 18
+[['Chiesa_di_San_Salvador'], ['Gaggio_Carta_Di_Girotto_Sas']], 18
+[['Chiesa_di_San_Salvador'], ["Gallerie_dell'Accademia"]], 18
+[['Chiesa_di_San_Salvador'], ['Palace_Gardens']], 18
+[["Opera_Santa_Maria_Della_Carita'"], ['Palazzo_Santa_Maria_del_Giglio']], 18
+[["Opera_Santa_Maria_Della_Carita'"], ['Gaggio_Carta_Di_Girotto_Sas']], 18
+[["Opera_Santa_Maria_Della_Carita'"], ['Palazzo_Ducale'], ['Palazzo_Ducale']], 18
+[["Ponte_dell'Accademia"], ['Palazzo_Foscari_Contarini']], 18
+[["Ponte_dell'Accademia"], ['Museo_Correr'], ['Palazzo_Ducale']], 18
+[["Ponte_dell'Accademia"], ['Palazzo_Ducale'], ["Torre_dell'orologio"]], 18
+[['Monumento_Nazionale_a_Vittorio_Emanuele_II'], ['Palazzo_Santa_Maria_del_Giglio']], 18
+[['Monumento_Nazionale_a_Vittorio_Emanuele_II'], ['Museo_Correr'], ['Palace_Gardens']], 18
+[['Monumento_Nazionale_a_Vittorio_Emanuele_II'], ['Palazzo_Ducale'], ['Fontego_dei_Tedeschi']], 18
+[['Monumento_Nazionale_a_Vittorio_Emanuele_II'], ['Palazzo_Ducale'], ['Palace_Gardens']], 18
+[['Campo_San_Zaccaria'], ['Ponte_dei_Sospiri'], ['Palazzo_Ducale']], 18
+[['Campo_San_Zaccaria'], ['Museo_Correr'], ['Palazzo_Ducale']], 18
+[['Ponte_dei_Sospiri'], ['Palazzo_Ducale'], ["Gallerie_dell'Accademia"]], 18
+[['Ponte_dei_Sospiri'], ['Palazzo_Ducale'], ['Museo_Correr'], ['Palazzo_Ducale']], 18
+[['Ponte_dei_Sospiri'], ['Palazzo_Ducale'], ['Palace_Gardens'], ['Palazzo_Ducale']], 18
+[['Bauer_Palazzo'], ['Ponte_dei_Sospiri']], 18
+[['Bauer_Palazzo'], ['Museo_Correr'], ['Palace_Gardens']], 18
+[['Bauer_Palazzo'], ["Torre_dell'orologio"], ['Palazzo_Ducale']], 18
+[['Bauer_Palazzo'], ['Palazzo_Ducale'], ['Museo_Correr']], 18
+[['Bauer_Palazzo'], ['Palazzo_Ducale'], ['Palazzo_Ducale'], ['Palazzo_Ducale']], 18
+[['Basilica_di_Santa_Maria_della_Salute'], ["Opera_Santa_Maria_Della_Carita'"]], 18
+[['Basilica_di_Santa_Maria_della_Salute'], ['Campo_San_Zaccaria']], 18
+[['Basilica_di_Santa_Maria_della_Salute'], ['Monumento_Nazionale_a_Vittorio_Emanuele_II']], 18
+[['Basilica_di_Santa_Maria_della_Salute'], ['Bauer_Palazzo'], ['Palazzo_Ducale']], 18
+[['Basilica_di_Santa_Maria_della_Salute'], ['Palace_Gardens'], ['Palazzo_Ducale']], 18
+[['Palazzo_Foscari_Contarini'], ['Museo_Correr'], ['Palazzo_Ducale']], 18
+[['Palazzo_Foscari_Contarini'], ['Fontego_dei_Tedeschi'], ['Palazzo_Ducale']], 18
+[['Palazzo_Foscari_Contarini'], ['Palazzo_Ducale'], ['Museo_Correr']], 18
+[["Gallerie_dell'Accademia"], ['Chiesa_di_San_Salvador']], 18
+[["Gallerie_dell'Accademia"], ['Museo_Correr'], ["Torre_dell'orologio"], ['Palazzo_Ducale']], 18
+[["Gallerie_dell'Accademia"], ["Gallerie_dell'Accademia"], ["Torre_dell'orologio"]], 18
+[["Gallerie_dell'Accademia"], ['Palace_Gardens'], ['Palazzo_Ducale'], ['Palace_Gardens']], 18
+[["Gallerie_dell'Accademia"], ['Palazzo_Ducale'], ['Ponte_dei_Sospiri']], 18
+[['Gaggio_Carta_Di_Girotto_Sas'], ['Palazzo_Santa_Maria_del_Giglio']], 18
+[['Gaggio_Carta_Di_Girotto_Sas'], ['Ponte_dei_Sospiri'], ['Palazzo_Ducale']], 18
+[['Gaggio_Carta_Di_Girotto_Sas'], ['Bauer_Palazzo'], ['Palazzo_Ducale']], 18
+[['Palace_Gardens'], ['Campo_Santo_Stefano']], 18
+[['Palace_Gardens'], ['Chiesa_Santa_Maria_della_Fava']], 18
+[['Palace_Gardens'], ['Bauer_Palazzo'], ['Palazzo_Ducale']], 18
+[['Palace_Gardens'], ['Bauer_Palazzo'], ['Basilica_di_Santa_Maria_della_Salute']], 18
+[['Palace_Gardens'], ['Basilica_di_Santa_Maria_della_Salute'], ['Palazzo_Ducale']], 18
+[['Palace_Gardens'], ['Fontego_dei_Tedeschi'], ['Museo_Correr'], ['Palazzo_Ducale']], 18
+[['Palace_Gardens'], ['Fontego_dei_Tedeschi'], ['Palazzo_Ducale'], ['Palazzo_Ducale']], 18
+[['Palace_Gardens'], ['Palace_Gardens'], ['Palazzo_Ducale'], ['Palace_Gardens']], 18
+[['Palace_Gardens'], ['Museo_Correr'], ["Gallerie_dell'Accademia"]], 18
+[['Palace_Gardens'], ['Museo_Correr'], ['Museo_Correr'], ['Palazzo_Ducale']], 18
+[['Palace_Gardens'], ['Palazzo_Ducale'], ['Palazzo_Foscari_Contarini']], 18
+[['Palace_Gardens'], ['Palazzo_Ducale'], ['Galleria_Franchetti']], 18
+[['Palace_Gardens'], ['Palazzo_Ducale'], ['Collezione_Peggy_Guggenheim']], 18
+[['Palace_Gardens'], ['Palazzo_Ducale'], ["Torre_dell'orologio"], ['Palace_Gardens']], 18
+[['Palace_Gardens'], ['Palazzo_Ducale'], ['Palace_Gardens'], ["Torre_dell'orologio"]], 18
+[['Palace_Gardens'], ['Palazzo_Ducale'], ['Palazzo_Ducale'], ['Ponte_dei_Sospiri']], 18
+[['Palace_Gardens'], ['Palazzo_Ducale'], ['Palazzo_Ducale'], ['Fontego_dei_Tedeschi']], 18
+[['Museo_Correr'], ['Campo_Santo_Stefano']], 18
+[['Museo_Correr'], ['Chiesa_di_San_Barnaba']], 18
+[['Museo_Correr'], ['Collezione_Peggy_Guggenheim'], ['Palazzo_Ducale']], 18
+[['Museo_Correr'], ['Fontego_dei_Tedeschi'], ['Gaggio_Carta_Di_Girotto_Sas']], 18
+[['Museo_Correr'], ['Museo_Correr'], ['Palazzo_Ducale'], ['Palace_Gardens']], 18
+[['Museo_Correr'], ["Torre_dell'orologio"], ['Campo_San_Zaccaria']], 18
+[['Museo_Correr'], ["Torre_dell'orologio"], ['Palace_Gardens'], ['Palazzo_Ducale']], 18
+[['Museo_Correr'], ["Torre_dell'orologio"], ['Palazzo_Ducale'], ['Fontego_dei_Tedeschi']], 18
+[['Museo_Correr'], ["Torre_dell'orologio"], ['Palazzo_Ducale'], ['Museo_Correr']], 18
+[['Museo_Correr'], ['Palace_Gardens'], ["Gallerie_dell'Accademia"]], 18
+[['Museo_Correr'], ['Palazzo_Ducale'], ['Chiesa_di_San_Giorgio_Maggiore']], 18
+[['Museo_Correr'], ['Palazzo_Ducale'], ["Gallerie_dell'Accademia"], ['Palazzo_Ducale']], 18
+[['Museo_Correr'], ['Palazzo_Ducale'], ['Palace_Gardens'], ['Museo_Correr']], 18
+[['Museo_Correr'], ['Palazzo_Ducale'], ["Torre_dell'orologio"], ['Fontego_dei_Tedeschi']], 18
+[['Museo_Correr'], ['Palazzo_Ducale'], ["Torre_dell'orologio"], ['Palazzo_Ducale'], ['Palazzo_Ducale']], 18
+[['Museo_Correr'], ['Palazzo_Ducale'], ['Palazzo_Ducale'], ['Museo_Correr'], ['Palazzo_Ducale']], 18
+[['Museo_Correr'], ['Palazzo_Ducale'], ['Palazzo_Ducale'], ['Palazzo_Ducale'], ["Torre_dell'orologio"]], 18
+[['Fontego_dei_Tedeschi'], ['Chiesa_di_San_Marcuola']], 18
+[['Fontego_dei_Tedeschi'], ['Campo_San_Geremia']], 18
+[['Fontego_dei_Tedeschi'], ['Bauer_Palazzo'], ['Palazzo_Ducale']], 18
+[['Fontego_dei_Tedeschi'], ['Campo_San_Zaccaria'], ['Palazzo_Ducale']], 18
+[['Fontego_dei_Tedeschi'], ['Basilica_di_Santa_Maria_della_Salute'], ["Torre_dell'orologio"]], 18
+[['Fontego_dei_Tedeschi'], ['Palace_Gardens'], ['Palace_Gardens']], 18
+[['Fontego_dei_Tedeschi'], ["Gallerie_dell'Accademia"], ['Basilica_di_Santa_Maria_della_Salute']], 18
+[['Fontego_dei_Tedeschi'], ['Gaggio_Carta_Di_Girotto_Sas'], ["Gallerie_dell'Accademia"]], 18
+[['Fontego_dei_Tedeschi'], ['Gaggio_Carta_Di_Girotto_Sas'], ['Basilica_di_Santa_Maria_della_Salute']], 18
+[['Fontego_dei_Tedeschi'], ["Torre_dell'orologio"], ['Palazzo_Foscari_Contarini']], 18
+[['Fontego_dei_Tedeschi'], ['Palazzo_Ducale'], ['Palazzo_Ducale'], ["Torre_dell'orologio"], ['Palazzo_Ducale']], 18
+[['Fontego_dei_Tedeschi'], ['Palazzo_Ducale'], ['Palazzo_Ducale'], ['Palazzo_Ducale'], ['Palazzo_Ducale']], 18
+[["Torre_dell'orologio"], ['Palazzo_Contarini_del_Bovolo']], 18
+[["Torre_dell'orologio"], ['Chiesa_di_San_Salvador'], ['Palazzo_Ducale']], 18
+[["Torre_dell'orologio"], ['Palazzo_Santa_Maria_del_Giglio'], ['Palazzo_Ducale']], 18
+[["Torre_dell'orologio"], ['Ponte_dei_Sospiri'], ["Torre_dell'orologio"]], 18
+[["Torre_dell'orologio"], ['Campo_San_Zaccaria'], ["Torre_dell'orologio"]], 18
+[["Torre_dell'orologio"], ['Fontego_dei_Tedeschi'], ["Torre_dell'orologio"], ['Palazzo_Ducale']], 18
+[["Torre_dell'orologio"], ['Museo_Correr'], ['Monumento_Nazionale_a_Vittorio_Emanuele_II']], 18
+[["Torre_dell'orologio"], ['Museo_Correr'], ['Gaggio_Carta_Di_Girotto_Sas']], 18
+[["Torre_dell'orologio"], ['Museo_Correr'], ["Gallerie_dell'Accademia"]], 18
+[["Torre_dell'orologio"], ['Museo_Correr'], ['Fontego_dei_Tedeschi'], ['Palazzo_Ducale']], 18
+[["Torre_dell'orologio"], ['Museo_Correr'], ['Palazzo_Ducale'], ['Palazzo_Ducale'], ['Palazzo_Ducale']], 18
+[["Torre_dell'orologio"], ["Torre_dell'orologio"], ['Palazzo_Ducale'], ['Fontego_dei_Tedeschi']], 18
+[["Torre_dell'orologio"], ['Palazzo_Ducale'], ['Campo_Santo_Stefano']], 18
+[["Torre_dell'orologio"], ['Palazzo_Ducale'], ['Museo_Correr'], ['Palazzo_Ducale'], ['Palazzo_Ducale']], 18
+[["Torre_dell'orologio"], ['Palazzo_Ducale'], ["Torre_dell'orologio"], ['Gaggio_Carta_Di_Girotto_Sas']], 18
+[["Torre_dell'orologio"], ['Palazzo_Ducale'], ["Torre_dell'orologio"], ['Palazzo_Ducale'], ["Torre_dell'orologio"], ['Palazzo_Ducale']], 18
+[["Torre_dell'orologio"], ['Palazzo_Ducale'], ['Palazzo_Ducale'], ["Gallerie_dell'Accademia"]], 18
+[["Torre_dell'orologio"], ['Palazzo_Ducale'], ['Palazzo_Ducale'], ['Basilica_di_Santa_Maria_della_Salute']], 18
+[["Torre_dell'orologio"], ['Palazzo_Ducale'], ['Palazzo_Ducale'], ['Ponte_dei_Sospiri'], ['Palazzo_Ducale']], 18
+[["Torre_dell'orologio"], ['Palazzo_Ducale'], ['Palazzo_Ducale'], ['Palazzo_Ducale'], ['Ponte_dei_Sospiri']], 18
+[["Torre_dell'orologio"], ['Palazzo_Ducale'], ['Palazzo_Ducale'], ['Palazzo_Ducale'], ['Palazzo_Ducale'], ["Torre_dell'orologio"]], 18
+[['Palazzo_Ducale'], ['Chiesa_di_San_Salvador'], ["Torre_dell'orologio"]], 18
+[['Palazzo_Ducale'], ['Palazzo_Foscari_Contarini'], ['Palazzo_Ducale']], 18
+[['Palazzo_Ducale'], ['Monumento_Nazionale_a_Vittorio_Emanuele_II'], ['Museo_Correr']], 18
+[['Palazzo_Ducale'], ['Monumento_Nazionale_a_Vittorio_Emanuele_II'], ['Palace_Gardens']], 18
+[['Palazzo_Ducale'], ['Monumento_Nazionale_a_Vittorio_Emanuele_II'], ['Ponte_dei_Sospiri']], 18
+[['Palazzo_Ducale'], ["Ponte_dell'Accademia"], ["Torre_dell'orologio"]], 18
+[['Palazzo_Ducale'], ['Campo_San_Zaccaria'], ['Museo_Correr']], 18
+[['Palazzo_Ducale'], ['Campo_San_Zaccaria'], ['Palazzo_Ducale'], ["Torre_dell'orologio"]], 18
+[['Palazzo_Ducale'], ['Ponte_dei_Sospiri'], ['Gaggio_Carta_Di_Girotto_Sas']], 18
+[['Palazzo_Ducale'], ['Ponte_dei_Sospiri'], ['Palazzo_Ducale'], ["Torre_dell'orologio"], ['Palazzo_Ducale']], 18
+[['Palazzo_Ducale'], ['Gaggio_Carta_Di_Girotto_Sas'], ['Fontego_dei_Tedeschi'], ['Palazzo_Ducale']], 18
+[['Palazzo_Ducale'], ['Gaggio_Carta_Di_Girotto_Sas'], ['Palazzo_Ducale'], ['Palazzo_Ducale']], 18
+[['Palazzo_Ducale'], ["Gallerie_dell'Accademia"], ["Ponte_dell'Accademia"]], 18
+[['Palazzo_Ducale'], ['Fontego_dei_Tedeschi'], ['Chiesa_di_San_Salvador']], 18
+[['Palazzo_Ducale'], ['Fontego_dei_Tedeschi'], ['Gaggio_Carta_Di_Girotto_Sas'], ["Torre_dell'orologio"]], 18
+[['Palazzo_Ducale'], ['Fontego_dei_Tedeschi'], ['Palazzo_Ducale'], ['Museo_Correr']], 18
+[['Palazzo_Ducale'], ['Museo_Correr'], ['Chiesa_di_San_Mois?']], 18
+[['Palazzo_Ducale'], ['Museo_Correr'], ['Palazzo_Foscari_Contarini']], 18
+[['Palazzo_Ducale'], ['Museo_Correr'], ['Collezione_Peggy_Guggenheim']], 18
+[['Palazzo_Ducale'], ['Museo_Correr'], ["Torre_dell'orologio"], ['Palazzo_Ducale'], ["Torre_dell'orologio"]], 18
+[['Palazzo_Ducale'], ['Museo_Correr'], ["Torre_dell'orologio"], ['Palazzo_Ducale'], ['Palazzo_Ducale']], 18
+[['Palazzo_Ducale'], ['Museo_Correr'], ['Palace_Gardens'], ["Torre_dell'orologio"]], 18
+[['Palazzo_Ducale'], ['Museo_Correr'], ['Palazzo_Ducale'], ['Gaggio_Carta_Di_Girotto_Sas']], 18
+[['Palazzo_Ducale'], ['Palace_Gardens'], ['Palazzo_Santa_Maria_del_Giglio']], 18
+[['Palazzo_Ducale'], ['Palace_Gardens'], ['Campo_San_Zaccaria']], 18
+[['Palazzo_Ducale'], ['Palace_Gardens'], ["Ponte_dell'Accademia"]], 18
+[['Palazzo_Ducale'], ['Palace_Gardens'], ['Fontego_dei_Tedeschi'], ['Palazzo_Ducale']], 18
+[['Palazzo_Ducale'], ['Palace_Gardens'], ['Museo_Correr'], ["Torre_dell'orologio"]], 18
+[['Palazzo_Ducale'], ['Palace_Gardens'], ['Palazzo_Ducale'], ['Museo_Correr'], ['Palazzo_Ducale']], 18
+[['Palazzo_Ducale'], ['Palace_Gardens'], ['Palazzo_Ducale'], ["Torre_dell'orologio"], ['Palazzo_Ducale']], 18
+[['Palazzo_Ducale'], ['Palace_Gardens'], ['Palazzo_Ducale'], ['Palazzo_Ducale'], ['Palace_Gardens']], 18
+[['Palazzo_Ducale'], ["Torre_dell'orologio"], ['Chiesa_di_San_Mois?']], 18
+[['Palazzo_Ducale'], ["Torre_dell'orologio"], ['Basilica_di_Santa_Maria_della_Salute'], ['Palazzo_Ducale']], 18
+[['Palazzo_Ducale'], ["Torre_dell'orologio"], ['Gaggio_Carta_Di_Girotto_Sas'], ["Torre_dell'orologio"]], 18
+[['Palazzo_Ducale'], ["Torre_dell'orologio"], ['Fontego_dei_Tedeschi'], ['Palazzo_Ducale'], ["Torre_dell'orologio"]], 18
+[['Palazzo_Ducale'], ["Torre_dell'orologio"], ["Torre_dell'orologio"], ['Gaggio_Carta_Di_Girotto_Sas']], 18
+[['Palazzo_Ducale'], ["Torre_dell'orologio"], ['Palazzo_Ducale'], ['Museo_Correr'], ['Palazzo_Ducale']], 18
+[['Palazzo_Ducale'], ["Torre_dell'orologio"], ['Palazzo_Ducale'], ['Fontego_dei_Tedeschi'], ["Torre_dell'orologio"]], 18
+[['Palazzo_Ducale'], ["Torre_dell'orologio"], ['Palazzo_Ducale'], ["Torre_dell'orologio"], ['Palazzo_Ducale'], ["Torre_dell'orologio"]], 18
+[['Palazzo_Ducale'], ["Torre_dell'orologio"], ['Palazzo_Ducale'], ["Torre_dell'orologio"], ['Palazzo_Ducale'], ['Palazzo_Ducale']], 18
+[['Palazzo_Ducale'], ['Palazzo_Ducale'], ['Campo_Santo_Stefano']], 18
+[['Palazzo_Ducale'], ['Palazzo_Ducale'], ["Ponte_dell'Accademia"], ['Palazzo_Ducale']], 18
+[['Palazzo_Ducale'], ['Palazzo_Ducale'], ['Ponte_dei_Sospiri'], ['Palazzo_Ducale'], ['Palazzo_Ducale']], 18
+[['Palazzo_Ducale'], ['Palazzo_Ducale'], ['Gaggio_Carta_Di_Girotto_Sas'], ['Palazzo_Ducale']], 18
+[['Palazzo_Ducale'], ['Palazzo_Ducale'], ["Gallerie_dell'Accademia"], ['Palace_Gardens']], 18
+[['Palazzo_Ducale'], ['Palazzo_Ducale'], ['Palace_Gardens'], ['Palazzo_Ducale'], ['Palazzo_Ducale']], 18
+[['Palazzo_Ducale'], ['Palazzo_Ducale'], ['Palace_Gardens'], ['Palazzo_Ducale'], ['Palace_Gardens']], 18
+[['Palazzo_Ducale'], ['Palazzo_Ducale'], ["Torre_dell'orologio"], ['Ponte_dei_Sospiri']], 18
+[['Palazzo_Ducale'], ['Palazzo_Ducale'], ["Torre_dell'orologio"], ['Palazzo_Santa_Maria_del_Giglio']], 18
+[['Palazzo_Ducale'], ['Palazzo_Ducale'], ["Torre_dell'orologio"], ['Museo_Correr'], ['Palazzo_Ducale']], 18
+[['Palazzo_Ducale'], ['Palazzo_Ducale'], ["Torre_dell'orologio"], ['Palazzo_Ducale'], ['Museo_Correr']], 18
+[['Palazzo_Ducale'], ['Palazzo_Ducale'], ['Palazzo_Ducale'], ['Palazzo_Santa_Maria_del_Giglio']], 18
+[['Palazzo_Ducale'], ['Palazzo_Ducale'], ['Palazzo_Ducale'], ['Ponte_dei_Sospiri'], ['Palazzo_Ducale']], 18
+[['Palazzo_Ducale'], ['Palazzo_Ducale'], ['Palazzo_Ducale'], ['Palace_Gardens'], ['Palazzo_Ducale']], 18
+[['Palazzo_Ducale'], ['Palazzo_Ducale'], ['Palazzo_Ducale'], ["Torre_dell'orologio"], ['Palazzo_Ducale'], ["Torre_dell'orologio"]], 18
