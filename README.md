@@ -1,2 +1,2 @@
-# isti summer practice
-frequent itenerary extraction from the location data in photos taken by tourists
+# route extractor
+frequent route extraction using the location data in the photos taken by the visitors in the city.
