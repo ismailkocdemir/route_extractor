@@ -1,2 +1,3 @@
-# route extractor
-frequent route extraction using the location data in the photos taken by the visitors in the city.
+# Route Extractor
+
+Frequent route extraction using the temporal orederings of the location coordinates embeded in the photographs take in a single city.
