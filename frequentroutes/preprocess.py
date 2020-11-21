@@ -10,20 +10,14 @@ class Routes():
 			self.avg_distance = 0.0
 			self.min_distance = [float('inf'), 0]	# [distance in m, index]
 			self.max_distance = [0.0, 0]			# [distance in m, index]
-			self.destinations = [] 					# [ poi_name ]
+			self.destinations = {} 					# { poi_name: lon-lat }
 
-
-	# calculate distance in km
-	def haversine_dist(self, lat, long, plat, plong):
-		if plat[0] == '_':
-			plat = float(plat[1:])
-		else:
-			plat = float(plat)
-
-		if plong[0] == '_':
-			plong = float(plong[1:])
-		else:
-			plong = float(plong)
+	
+	@staticmethod
+	def start(path):
+		return Routes(path)
+	
+	def removeUnderscore(self, long, lat):
 	
 		if lat[0] == '_':
 			lat = float(lat[1:])
@@ -34,13 +28,21 @@ class Routes():
 			long = float(long[1:])
 		else:
 			long = float(long)
+		return long, lat
+			
+	# calculate distance in km
+	def haversine_dist(self, lat, long, plat, plong):
 	
+		long, lat = self.removeUnderscore(long, lat)
+		plong, plat = self.removeUnderscore(plong, plat)
+		
 		lat, long, plat, plong = map(radians, [lat, long, plat, plong])
 		dlat = lat - plat
 		dlong = long - plong
 		a = sin(dlat/2)**2 + cos(lat) * cos(plat) * sin(dlong/2)**2
 		c = 2 * asin(sqrt(a)) 
 		r = 6371 
+	
 		return c * r
 	
 	def calculate_distances(self):
@@ -76,16 +78,16 @@ class Routes():
 			new_user = False
 			first = True
 			# dictionary / userid : (route) /
+			
 			for row in reader:
 				new_user = False
 				distance = self.haversine_dist(row['lat'], row['long'], row['poi_lat'], row['poi_long'])
 				if first:
-					self.destinations.append(row['poi_name'])
 					self.users.append(row['user_id'])
 					first = False
-			
+				
 				if row['poi_name'] not in self.destinations:
-					self.destinations.append(row['poi_name'])
+					self.destinations[row['poi_name']] = self.removeUnderscore(row['long'], row['lat']) 
 			
 				if row['user_id'] != self.users[-1]:
 					self.itineraries[self.users[-1]] = tuple(route)
@@ -100,11 +102,11 @@ class Routes():
 
 
 if __name__ == "__main__":
-	r = Routes('sorted_labelled_photo_unixtime.csv')
+	r = Routes.start('data/sorted_labelled_photo_unixtime.csv')
 	print( r.calculate_distances() )	
 	r.process()
-	print(len(r.destinations))
-	print(r.itineraries[r.users[0]])
-		
+	for name, crdnt in r.destinations.iteritems():
+		print(name, crdnt)
+
 
 
