@@ -2,7 +2,6 @@ import csv
 from math import cos, sin, asin, sqrt, radians
 
 class Routes():
-
 	def __init__(self, path):
 			self.file_path = path
 			self.itineraries = {} 						# {userid : (route)} 

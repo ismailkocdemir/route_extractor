@@ -86,18 +86,18 @@ def kmp(pattern, text):
 
 	return occurences
 
-def extractAndDecompose(in_path, out_path = 'decomposed.csv', min_sup = 0.005, max_length = 10, consecutive = True ):
+def extractAndDecompose(in_path, out_path = 'decomposed.csv', min_sup = 0.005, max_length = 10, consecutive = True):
 
 	if consecutive:	
-						# Uses modified PrefixSpan
+		# Uses modified PrefixSpan
 		itins_dests = ps2.collectItinsFrom(in_path)
 		itins = itins_dests.getItinsAsList()
 		dests = itins_dests.getDestinations() 
 		itin_list = [ item[0] for item in itins]
 		model = ps2.train(itins, dests, min_sup, max_length)
 	else:
-																												
-		itins = ps.collectItinsFrom(in_path) 										# Uses original PrefixSpan
+		# Uses original PrefixSpan																												
+		itins = ps.collectItinsFrom(in_path) 										
 		itin_list = ps2.toList(itins)
 		model = ps.train(itin_list, min_sup, max_length)		
 	
